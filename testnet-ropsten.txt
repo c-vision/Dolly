@@ -1,0 +1,90 @@
+truffle(develop)> migrate --reset --network ropsten
+{ GANACHE_PORT: '8545',
+  GANACHE_MNEMONIC:
+   'supply surge clinic uncle then mansion super seminar certain kind melt bird',
+  TRUFFLE_MNEMONIC:
+   'better wine voyage deal miss entire coffee vanish upset system drastic ability',
+  INFURA_API_KEY: 'a38fa3ea997e4691b62281a9d610d0c7',
+  METAMASK_MNEMONIC:
+   'slam journey book orchard wink stuff abandon check dust tower estate dream',
+  METAMASK_ACCOUNT: '0xe1dffA82C36BE0f0A26A49C7a88E298335113540',
+  METAMASK_PRIVATE_KEY:
+   '742aa76afe51040b32339bb4d5efc3b7e5a61a47e2c4ad9958222f7c25e0e9a3' }
+
+
+https://ropsten.etherscan.io/token/0xde832a9BC35a19e07101362228465D33F84ee8A8
+
+
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+
+
+Starting migrations...
+======================
+> Network name:    'ropsten'
+> Network id:      3
+> Block gas limit: 8000000 (0x7a1200)
+
+
+1_initial_migration.js
+======================
+
+   Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0x13e2181ca65720edd580057806eef6725dfa8a79c2593c2b45de2e65c8fdea06
+   > Blocks: 0            Seconds: 21
+   > contract address:    0xf39F93ef28475b87cbCFb64De4fA273B1fA573b1
+   > block number:        10321768
+   > block timestamp:     1622149963
+   > account:             0xe1dffA82C36BE0f0A26A49C7a88E298335113540
+   > balance:             3.9877525
+   > gas used:            271700 (0x42554)
+   > gas price:           45 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0122265 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:           0.0122265 ETH
+
+
+2_deploy_contracts.js
+=====================
+
+   Deploying 'Dolly'
+   -----------------
+   > transaction hash:    0x512711a5df23607321f5a546d15eda38b14ef9542a576530a3cc7c8f320e09ed
+   > Blocks: 2            Seconds: 48
+   > contract address:    0xde832a9BC35a19e07101362228465D33F84ee8A8
+   > block number:        10321772
+   > block timestamp:     1622150025
+   > account:             0xe1dffA82C36BE0f0A26A49C7a88E298335113540
+   > balance:             3.80623798
+   > gas used:            3987718 (0x3cd906)
+   > gas price:           45 gwei
+   > value sent:          0 ETH
+   > total cost:          0.17944731 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.17944731 ETH
+
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          0.19167381 ETH
+
+
+(node:15940) ExperimentalWarning: queueMicrotask() is experimental.
+(node:15940) ExperimentalWarning: The fs.promises API is experimental
+- Blocks: 0            Seconds: 0
+- Saving migration to chain.
+- Blocks: 0            Seconds: 0
+- Saving migration to chain.

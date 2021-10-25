@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.4.1",
+    "dotenv": "^10.0.0",
+    "truffle-contract": "^4.0.31",
+    "web3": "^1.4.0"
+  }
+}
