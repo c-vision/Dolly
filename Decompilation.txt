@@ -1,0 +1,3049 @@
+Address
+0xde832a9bc35a19e07101362228465d33f84ee8a8 [etherscan.io]
+Public Methods
+Method names cached from 4byte.directory.
+0x06fdde03 name()
+0x095ea7b3 approve(address,uint256)
+0x18160ddd totalSupply()
+0x1c02708d killContract()
+0x23b872dd transferFrom(address,address,uint256)
+0x2c3c355e Unknown
+0x2d80297f Unknown
+0x313ce567 decimals()
+0x39509351 increaseAllowance(address,uint256)
+0x40c10f19 mint(address,uint256)
+0x42966c68 burn(uint256)
+0x5c975abb paused()
+0x70a08231 balanceOf(address)
+0x715018a6 renounceOwnership()
+0x79cc6790 burnFrom(address,uint256)
+0x85e2381c Unknown
+0x8da5cb5b owner()
+0x95d89b41 symbol()
+0xa3684977 Unknown
+0xa457c2d7 decreaseAllowance(address,uint256)
+0xa9059cbb transfer(address,uint256)
+0xaace52fe sales()
+0xb49d5fcf Unknown
+0xd0febe4c buyTokens()
+0xd4e93292 withdrawal()
+0xdd62ed3e allowance(address,address)
+0xef7a7339 Unknown
+0xf2fde38b transferOwnership(address)
+0xf76a7a5d Unknown
+0xf851a440 admin()
+Internal Methods
+func_023D(arg0, arg1) returns (r0)
+func_02BC(arg0, arg1, arg2) returns (r0)
+func_02F9(arg0) returns (r0)
+func_0336(arg0) returns (r0)
+func_039E(arg0, arg1) returns (r0)
+func_03DB(arg0, arg1)
+func_0404(arg0)
+func_0458(arg0) returns (r0)
+func_04AC(arg0, arg1)
+func_04D5(arg0) returns (r0)
+func_0593(arg0, arg1) returns (r0)
+func_05D0(arg0, arg1) returns (r0)
+func_0638(arg0) returns (r0)
+func_0696(arg0, arg1) returns (r0)
+func_06D3(arg0) returns (r0)
+func_0710(arg0)
+func_0739(arg0) returns (r0)
+func_077F(arg0, arg1)
+func_07E3(arg0) returns (r0)
+func_08B6(arg0, arg1)
+func_08C3() returns (r0)
+func_0900(arg0, arg1) returns (r0)
+func_0917() returns (r0)
+func_0AFB(arg0, arg1, arg2)
+func_1087() returns (r0)
+func_111F(arg0, arg1, arg2)
+func_1231() returns (r0)
+renounceOwnership()
+func_1443(arg0, arg1, arg2)
+func_1701(arg0, arg1)
+func_1762() returns (r0)
+func_178C() returns (r0)
+func_17C9() returns (r0)
+func_18A9(arg0, arg1, arg2)
+func_1918() returns (r0)
+buyTokens()
+func_1B65(arg0, arg1) returns (r0)
+func_219A(arg0) returns (r0)
+func_21C4() returns (r0)
+func_21EE(arg0, arg1, arg2)
+func_2465(arg0, arg1, arg2)
+func_2630(arg0)
+func_28D8(arg0)
+func_2989(arg0)
+func_299D(arg0, arg1)
+func_2AE6(arg0, arg1)
+func_2CB0(arg0)
+func_2E1F() returns (r0)
+func_2E3D(arg0)
+func_2EB8(arg0, arg1) returns (r0)
+func_2ECD(arg0, arg1) returns (r0)
+func_2EE2(arg0, arg1) returns (r0)
+func_2F0B(arg0, arg1) returns (r0, r1)
+func_2F47(arg0, arg1) returns (r0, r1, r2)
+func_2F96(arg0, arg1) returns (r0, r1)
+func_2FD2(arg0, arg1) returns (r0)
+func_2FFB(arg0, arg1)
+func_300A(arg0, arg1)
+func_3019(arg0, arg1) returns (r0)
+func_3052(arg0) returns (r0)
+func_3075(arg0) returns (r0)
+func_3098(arg0) returns (r0)
+func_30BB(arg0) returns (r0)
+func_30DE(arg0) returns (r0)
+func_3101(arg0) returns (r0)
+func_3147(arg0) returns (r0)
+func_318D(arg0) returns (r0)
+func_31B0(arg0) returns (r0)
+func_31D3(arg0) returns (r0)
+func_31F6(arg0) returns (r0)
+func_3219(arg0) returns (r0)
+func_323C(arg0) returns (r0)
+func_325F(arg0) returns (r0)
+func_3282(arg0) returns (r0)
+func_32A5(arg0) returns (r0)
+func_32C8(arg0) returns (r0)
+func_32EB(arg0) returns (r0)
+func_330E(arg0) returns (r0)
+func_3354(arg0) returns (r0)
+func_3377(arg0) returns (r0)
+func_339A(arg0) returns (r0)
+func_33BD(arg0) returns (r0)
+func_33E0(arg0) returns (r0)
+func_3403(arg0) returns (r0)
+func_3426(arg0, arg1)
+func_3435(arg0, arg1)
+func_3459(arg0, arg1) returns (r0)
+func_34AB(arg0, arg1) returns (r0)
+func_34C6(arg0, arg1) returns (r0)
+func_34E8(arg0) returns (r0)
+func_3508(arg0) returns (r0)
+func_3528(arg0) returns (r0)
+func_3548(arg0) returns (r0)
+func_3568(arg0) returns (r0)
+func_3588(arg0) returns (r0)
+func_35C8(arg0) returns (r0)
+func_3608(arg0) returns (r0)
+func_3628(arg0) returns (r0)
+func_3648(arg0) returns (r0)
+func_3668(arg0) returns (r0)
+func_3688(arg0) returns (r0)
+func_36A8(arg0) returns (r0)
+func_36C8(arg0) returns (r0)
+func_36E8(arg0) returns (r0)
+func_3708(arg0) returns (r0)
+func_3728(arg0) returns (r0)
+func_3748(arg0) returns (r0)
+func_3768(arg0) returns (r0)
+func_3788(arg0) returns (r0)
+withdrawal(arg0) returns (r0)
+func_37C8(arg0) returns (r0)
+func_37E8(arg0) returns (r0)
+func_3808(arg0) returns (r0)
+func_3828(arg0) returns (r0)
+func_3848(arg0, arg1) returns (r0)
+func_3863(arg0, arg1, arg2, arg3) returns (r0)
+func_389A(arg0, arg1) returns (r0)
+func_38B5(arg0) returns (r0)
+func_38CB(arg0, arg1) returns (r0)
+func_38DC(arg0, arg1) returns (r0)
+func_3932(arg0, arg1) returns (r0)
+func_3963(arg0, arg1, arg2, arg3) returns (r0, r1)
+func_39B6(arg0, arg1) returns (r0)
+func_3A01(arg0, arg1, arg2) returns (r0)
+func_3AD4(arg0, arg1) returns (r0)
+func_3B2E(arg0, arg1) returns (r0)
+func_3B62(arg0) returns (r0)
+func_3B74(arg0) returns (r0)
+func_3B80(arg0) returns (r0)
+func_3BA0(arg0) returns (r0)
+func_3BAA(arg0) returns (r0)
+func_3BB7(arg0, arg1, arg2)
+func_3C48(arg0) returns (r0)
+func_3C59(arg0) returns (r0)
+func_3C66(arg0)
+func_3CB5(arg0)
+func_3D04(arg0)
+func_3D53(arg0)
+func_3DA2(arg0)
+func_3DF1(arg0)
+func_3E8F(arg0)
+func_3F07(arg0)
+func_3F30(arg0)
+func_3F59(arg0)
+func_3FA8(arg0)
+func_3FF7(arg0)
+func_4046(arg0)
+func_4095(arg0)
+func_40E4(arg0)
+func_4133(arg0)
+func_4182(arg0)
+func_41D1(arg0)
+func_4220(arg0)
+func_4272(arg0)
+func_42C1(arg0)
+func_4310(arg0)
+func_435F(arg0)
+func_43AE(arg0)
+func_43FD(arg0)
+func_4426(arg0)
+func_443D(arg0)
+
+contract Contract {
+    function main() {
+        memory[0x40:0x60] = 0x80;
+    
+        if (msg.data.length >= 0x04) {
+            var0 = msg.data[0x00:0x20] >> 0xe0;
+        
+            if (0x85e2381c > var0) {
+                if (0x313ce567 > var0) {
+                    if (0x1c02708d > var0) {
+                        if (var0 == 0x06fdde03) {
+                            // Dispatch table entry for name()
+                            var1 = msg.value;
+                        
+                            if (var1) { revert(memory[0x00:0x00]); }
+                        
+                            var1 = 0x0205;
+                            var1 = func_08C3();
+                            var temp0 = var1;
+                            var1 = 0x0212;
+                            var2 = temp0;
+                            var var3 = memory[0x40:0x60];
+                            var1 = func_34C6(var2, var3);
+                            var temp1 = memory[0x40:0x60];
+                            return memory[temp1:temp1 + var1 - temp1];
+                        } else if (var0 == 0x095ea7b3) {
+                            // Dispatch table entry for approve(address,uint256)
+                            var1 = msg.value;
+                        
+                            if (var1) { revert(memory[0x00:0x00]); }
+                        
+                            var1 = 0x0242;
+                            var2 = 0x023d;
+                            var3 = msg.data.length - 0x04 + 0x04;
+                            var var4 = 0x04;
+                            var2, var3 = func_2F96(var3, var4);
+                            var1 = func_023D(var2, var3);
+                            var temp2 = var1;
+                            var1 = 0x024f;
+                            var2 = temp2;
+                            var3 = memory[0x40:0x60];
+                            var1 = func_34AB(var2, var3);
+                            var temp3 = memory[0x40:0x60];
+                            return memory[temp3:temp3 + var1 - temp3];
+                        } else if (var0 == 0x18160ddd) {
+                            // Dispatch table entry for totalSupply()
+                            var1 = msg.value;
+                        
+                            if (var1) { revert(memory[0x00:0x00]); }
+                        
+                            var1 = 0x026d;
+                            var1 = func_0917();
+                            var temp4 = var1;
+                            var1 = 0x027a;
+                            var2 = temp4;
+                            var3 = memory[0x40:0x60];
+                            var1 = func_3848(var2, var3);
+                            var temp5 = memory[0x40:0x60];
+                            return memory[temp5:temp5 + var1 - temp5];
+                        } else { goto label_01E3; }
+                    } else if (var0 == 0x1c02708d) {
+                        // Dispatch table entry for killContract()
+                        var1 = msg.value;
+                    
+                        if (var1) { revert(memory[0x00:0x00]); }
+                    
+                        var1 = 0x0298;
+                    
+                        if (storage[0x02] & 0xffffffffffffffffffffffffffffffffffffffff == msg.sender) {
+                            var2 = 0x09b9;
+                            var2 = func_1762();
+                            selfdestruct(var2 & 0xffffffffffffffffffffffffffffffffffffffff);
+                        } else {
+                            var temp6 = memory[0x40:0x60];
+                            memory[temp6:temp6 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                            var3 = temp6 + 0x04;
+                            var2 = 0x09a8;
+                            var2 = withdrawal(var3);
+                            var temp7 = memory[0x40:0x60];
+                            revert(memory[temp7:temp7 + var2 - temp7]);
+                        }
+                    } else if (var0 == 0x23b872dd) {
+                        // Dispatch table entry for transferFrom(address,address,uint256)
+                        var1 = msg.value;
+                    
+                        if (var1) { revert(memory[0x00:0x00]); }
+                    
+                        var1 = 0x02c1;
+                        var2 = 0x02bc;
+                        var3 = msg.data.length - 0x04 + 0x04;
+                        var4 = 0x04;
+                        var2, var3, var4 = func_2F47(var3, var4);
+                        var1 = func_02BC(var2, var3, var4);
+                        var temp8 = var1;
+                        var1 = 0x02ce;
+                        var2 = temp8;
+                        var3 = memory[0x40:0x60];
+                        var1 = func_34AB(var2, var3);
+                        var temp9 = memory[0x40:0x60];
+                        return memory[temp9:temp9 + var1 - temp9];
+                    } else if (var0 == 0x2c3c355e) {
+                        // Dispatch table entry for 0x2c3c355e (unknown)
+                        var1 = msg.value;
+                    
+                        if (var1) { revert(memory[0x00:0x00]); }
+                    
+                        var1 = 0x02fe;
+                        var2 = 0x02f9;
+                        var3 = msg.data.length - 0x04 + 0x04;
+                        var4 = 0x04;
+                        var2 = func_2FD2(var3, var4);
+                        var1 = func_02F9(var2);
+                        var temp10 = var1;
+                        var1 = 0x030b;
+                        var2 = temp10;
+                        var3 = memory[0x40:0x60];
+                        var1 = func_34AB(var2, var3);
+                        var temp11 = memory[0x40:0x60];
+                        return memory[temp11:temp11 + var1 - temp11];
+                    } else if (var0 == 0x2d80297f) {
+                        // Dispatch table entry for 0x2d80297f (unknown)
+                        var1 = msg.value;
+                    
+                        if (var1) { revert(memory[0x00:0x00]); }
+                    
+                        var1 = 0x033b;
+                        var2 = 0x0336;
+                        var4 = 0x04;
+                        var3 = var4 + (msg.data.length - var4);
+                        var2 = func_2FD2(var3, var4);
+                        var1 = func_0336(var2);
+                        var temp12 = var1;
+                        var1 = 0x0348;
+                        var2 = temp12;
+                        var3 = memory[0x40:0x60];
+                        var1 = func_34AB(var2, var3);
+                        var temp13 = memory[0x40:0x60];
+                        return memory[temp13:temp13 + var1 - temp13];
+                    } else { goto label_01E3; }
+                } else if (0x5c975abb > var0) {
+                    if (var0 == 0x313ce567) {
+                        // Dispatch table entry for decimals()
+                        var1 = msg.value;
+                    
+                        if (var1) { revert(memory[0x00:0x00]); }
+                    
+                        var1 = 0x0366;
+                        var1 = func_1087();
+                        var temp14 = var1;
+                        var1 = 0x0373;
+                        var2 = temp14;
+                        var3 = memory[0x40:0x60];
+                        var1 = func_389A(var2, var3);
+                        var temp15 = memory[0x40:0x60];
+                        return memory[temp15:temp15 + var1 - temp15];
+                    } else if (var0 == 0x39509351) {
+                        // Dispatch table entry for increaseAllowance(address,uint256)
+                        var1 = msg.value;
+                    
+                        if (var1) { revert(memory[0x00:0x00]); }
+                    
+                        var1 = 0x03a3;
+                        var2 = 0x039e;
+                        var3 = msg.data.length - 0x04 + 0x04;
+                        var4 = 0x04;
+                        var2, var3 = func_2F96(var3, var4);
+                        var1 = func_039E(var2, var3);
+                        var temp16 = var1;
+                        var1 = 0x03b0;
+                        var2 = temp16;
+                        var3 = memory[0x40:0x60];
+                        var1 = func_34AB(var2, var3);
+                        var temp17 = memory[0x40:0x60];
+                        return memory[temp17:temp17 + var1 - temp17];
+                    } else if (var0 == 0x40c10f19) {
+                        // Dispatch table entry for mint(address,uint256)
+                        var1 = msg.value;
+                    
+                        if (var1) { revert(memory[0x00:0x00]); }
+                    
+                        var1 = 0x03e0;
+                        var2 = 0x03db;
+                        var4 = 0x04;
+                        var3 = var4 + (msg.data.length - var4);
+                        var2, var3 = func_2F96(var3, var4);
+                        func_03DB(var2, var3);
+                        stop();
+                    } else if (var0 == 0x42966c68) {
+                        // Dispatch table entry for burn(uint256)
+                        var1 = msg.value;
+                    
+                        if (var1) { revert(memory[0x00:0x00]); }
+                    
+                        var1 = 0x0409;
+                        var2 = 0x0404;
+                        var3 = msg.data.length - 0x04 + 0x04;
+                        var4 = 0x04;
+                        var2 = func_2FD2(var3, var4);
+                        func_0404(var2);
+                        stop();
+                    } else { goto label_01E3; }
+                } else if (var0 == 0x5c975abb) {
+                    // Dispatch table entry for paused()
+                    var1 = msg.value;
+                
+                    if (var1) { revert(memory[0x00:0x00]); }
+                
+                    var1 = 0x0420;
+                    var1 = func_1231();
+                    var temp18 = var1;
+                    var1 = 0x042d;
+                    var2 = temp18;
+                    var3 = memory[0x40:0x60];
+                    var1 = func_34AB(var2, var3);
+                    var temp19 = memory[0x40:0x60];
+                    return memory[temp19:temp19 + var1 - temp19];
+                } else if (var0 == 0x70a08231) {
+                    // Dispatch table entry for balanceOf(address)
+                    var1 = msg.value;
+                
+                    if (var1) { revert(memory[0x00:0x00]); }
+                
+                    var1 = 0x045d;
+                    var2 = 0x0458;
+                    var4 = 0x04;
+                    var3 = var4 + (msg.data.length - var4);
+                    var2 = func_2EE2(var3, var4);
+                    var1 = func_0458(var2);
+                    var temp20 = var1;
+                    var1 = 0x046a;
+                    var2 = temp20;
+                    var3 = memory[0x40:0x60];
+                    var1 = func_3848(var2, var3);
+                    var temp21 = memory[0x40:0x60];
+                    return memory[temp21:temp21 + var1 - temp21];
+                } else if (var0 == 0x715018a6) {
+                    // Dispatch table entry for renounceOwnership()
+                    var1 = msg.value;
+                
+                    if (var1) { revert(memory[0x00:0x00]); }
+                
+                    var1 = 0x0488;
+                    renounceOwnership();
+                    stop();
+                } else if (var0 == 0x79cc6790) {
+                    // Dispatch table entry for burnFrom(address,uint256)
+                    var1 = msg.value;
+                
+                    if (var1) { revert(memory[0x00:0x00]); }
+                
+                    var1 = 0x04b1;
+                    var2 = 0x04ac;
+                    var4 = 0x04;
+                    var3 = var4 + (msg.data.length - var4);
+                    var2, var3 = func_2F96(var3, var4);
+                    func_04AC(var2, var3);
+                    stop();
+                } else { goto label_01E3; }
+            } else if (0xb49d5fcf > var0) {
+                if (0xa3684977 > var0) {
+                    if (var0 == 0x85e2381c) {
+                        // Dispatch table entry for 0x85e2381c (unknown)
+                        var1 = msg.value;
+                    
+                        if (var1) { revert(memory[0x00:0x00]); }
+                    
+                        var1 = 0x04da;
+                        var2 = 0x04d5;
+                        var4 = 0x04;
+                        var3 = var4 + (msg.data.length - var4);
+                        var2 = func_2EE2(var3, var4);
+                        var1 = func_04D5(var2);
+                        var temp22 = var1;
+                        var1 = 0x04e7;
+                        var2 = temp22;
+                        var3 = memory[0x40:0x60];
+                        var1 = func_34AB(var2, var3);
+                        var temp23 = memory[0x40:0x60];
+                        return memory[temp23:temp23 + var1 - temp23];
+                    } else if (var0 == 0x8da5cb5b) {
+                        // Dispatch table entry for owner()
+                        var1 = msg.value;
+                    
+                        if (var1) { revert(memory[0x00:0x00]); }
+                    
+                        var1 = 0x0505;
+                        var1 = func_1762();
+                        var temp24 = var1;
+                        var1 = 0x0512;
+                        var2 = temp24;
+                        var3 = memory[0x40:0x60];
+                        var1 = func_3459(var2, var3);
+                        var temp25 = memory[0x40:0x60];
+                        return memory[temp25:temp25 + var1 - temp25];
+                    } else if (var0 == 0x95d89b41) {
+                        // Dispatch table entry for symbol()
+                        var1 = msg.value;
+                    
+                        if (var1) { revert(memory[0x00:0x00]); }
+                    
+                        var1 = 0x0530;
+                        var1 = func_178C();
+                        var temp26 = var1;
+                        var1 = 0x053d;
+                        var2 = temp26;
+                        var3 = memory[0x40:0x60];
+                        var1 = func_34C6(var2, var3);
+                        var temp27 = memory[0x40:0x60];
+                        return memory[temp27:temp27 + var1 - temp27];
+                    } else { goto label_01E3; }
+                } else if (var0 == 0xa3684977) {
+                    // Dispatch table entry for 0xa3684977 (unknown)
+                    var1 = msg.value;
+                
+                    if (var1) { revert(memory[0x00:0x00]); }
+                
+                    var1 = 0x055b;
+                    var1 = func_17C9();
+                    var temp28 = var1;
+                    var1 = 0x0568;
+                    var2 = temp28;
+                    var3 = memory[0x40:0x60];
+                    var1 = func_3848(var2, var3);
+                    var temp29 = memory[0x40:0x60];
+                    return memory[temp29:temp29 + var1 - temp29];
+                } else if (var0 == 0xa457c2d7) {
+                    // Dispatch table entry for decreaseAllowance(address,uint256)
+                    var1 = msg.value;
+                
+                    if (var1) { revert(memory[0x00:0x00]); }
+                
+                    var1 = 0x0598;
+                    var2 = 0x0593;
+                    var3 = msg.data.length - 0x04 + 0x04;
+                    var4 = 0x04;
+                    var2, var3 = func_2F96(var3, var4);
+                    var1 = func_0593(var2, var3);
+                    var temp30 = var1;
+                    var1 = 0x05a5;
+                    var2 = temp30;
+                    var3 = memory[0x40:0x60];
+                    var1 = func_34AB(var2, var3);
+                    var temp31 = memory[0x40:0x60];
+                    return memory[temp31:temp31 + var1 - temp31];
+                } else if (var0 == 0xa9059cbb) {
+                    // Dispatch table entry for transfer(address,uint256)
+                    var1 = msg.value;
+                
+                    if (var1) { revert(memory[0x00:0x00]); }
+                
+                    var1 = 0x05d5;
+                    var2 = 0x05d0;
+                    var3 = msg.data.length - 0x04 + 0x04;
+                    var4 = 0x04;
+                    var2, var3 = func_2F96(var3, var4);
+                    var1 = func_05D0(var2, var3);
+                    var temp32 = var1;
+                    var1 = 0x05e2;
+                    var2 = temp32;
+                    var3 = memory[0x40:0x60];
+                    var1 = func_34AB(var2, var3);
+                    var temp33 = memory[0x40:0x60];
+                    return memory[temp33:temp33 + var1 - temp33];
+                } else if (var0 == 0xaace52fe) {
+                    // Dispatch table entry for sales()
+                    var1 = msg.value;
+                
+                    if (var1) { revert(memory[0x00:0x00]); }
+                
+                    var1 = 0x0600;
+                    var1 = func_1918();
+                    var temp34 = var1;
+                    var1 = 0x060d;
+                    var2 = temp34;
+                    var3 = memory[0x40:0x60];
+                    var1 = func_3459(var2, var3);
+                    var temp35 = memory[0x40:0x60];
+                    return memory[temp35:temp35 + var1 - temp35];
+                } else { goto label_01E3; }
+            } else if (0xef7a7339 > var0) {
+                if (var0 == 0xb49d5fcf) {
+                    // Dispatch table entry for 0xb49d5fcf (unknown)
+                    var1 = msg.value;
+                
+                    if (var1) { revert(memory[0x00:0x00]); }
+                
+                    var1 = 0x063d;
+                    var2 = 0x0638;
+                    var4 = 0x04;
+                    var3 = var4 + (msg.data.length - var4);
+                    var2 = func_2FD2(var3, var4);
+                    var1 = func_0638(var2);
+                    var temp36 = var1;
+                    var1 = 0x064a;
+                    var2 = temp36;
+                    var3 = memory[0x40:0x60];
+                    var1 = func_34AB(var2, var3);
+                    var temp37 = memory[0x40:0x60];
+                    return memory[temp37:temp37 + var1 - temp37];
+                } else if (var0 == 0xd0febe4c) {
+                    // Dispatch table entry for buyTokens()
+                    var1 = 0x065b;
+                    buyTokens();
+                    stop();
+                } else if (var0 == 0xd4e93292) {
+                    // Dispatch table entry for withdrawal()
+                    var1 = msg.value;
+                
+                    if (var1) { revert(memory[0x00:0x00]); }
+                
+                    var1 = 0x0672;
+                
+                    if (storage[0x02] & 0xffffffffffffffffffffffffffffffffffffffff == msg.sender) {
+                        var2 = 0x00;
+                        // Unhandled termination
+                    } else {
+                        var temp38 = memory[0x40:0x60];
+                        memory[temp38:temp38 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                        var3 = temp38 + 0x04;
+                        var2 = 0x1b00;
+                        var2 = withdrawal(var3);
+                        var temp39 = memory[0x40:0x60];
+                        revert(memory[temp39:temp39 + var2 - temp39]);
+                    }
+                } else if (var0 == 0xdd62ed3e) {
+                    // Dispatch table entry for allowance(address,address)
+                    var1 = msg.value;
+                
+                    if (var1) { revert(memory[0x00:0x00]); }
+                
+                    var1 = 0x069b;
+                    var2 = 0x0696;
+                    var3 = msg.data.length - 0x04 + 0x04;
+                    var4 = 0x04;
+                    var2, var3 = func_2F0B(var3, var4);
+                    var1 = func_0696(var2, var3);
+                    var temp40 = var1;
+                    var1 = 0x06a8;
+                    var2 = temp40;
+                    var3 = memory[0x40:0x60];
+                    var1 = func_3848(var2, var3);
+                    var temp41 = memory[0x40:0x60];
+                    return memory[temp41:temp41 + var1 - temp41];
+                } else { goto label_01E3; }
+            } else if (var0 == 0xef7a7339) {
+                // Dispatch table entry for 0xef7a7339 (unknown)
+                var1 = msg.value;
+            
+                if (var1) { revert(memory[0x00:0x00]); }
+            
+                var1 = 0x06d8;
+                var2 = 0x06d3;
+                var4 = 0x04;
+                var3 = var4 + (msg.data.length - var4);
+                var2 = func_2EE2(var3, var4);
+                var1 = func_06D3(var2);
+                var temp42 = var1;
+                var1 = 0x06e5;
+                var2 = temp42;
+                var3 = memory[0x40:0x60];
+                var1 = func_3848(var2, var3);
+                var temp43 = memory[0x40:0x60];
+                return memory[temp43:temp43 + var1 - temp43];
+            } else if (var0 == 0xf2fde38b) {
+                // Dispatch table entry for transferOwnership(address)
+                var1 = msg.value;
+            
+                if (var1) { revert(memory[0x00:0x00]); }
+            
+                var1 = 0x0715;
+                var2 = 0x0710;
+                var4 = 0x04;
+                var3 = var4 + (msg.data.length - var4);
+                var2 = func_2EE2(var3, var4);
+                func_0710(var2);
+                stop();
+            } else if (var0 == 0xf76a7a5d) {
+                // Dispatch table entry for 0xf76a7a5d (unknown)
+                var1 = msg.value;
+            
+                if (var1) { revert(memory[0x00:0x00]); }
+            
+                var1 = 0x073e;
+                var2 = 0x0739;
+                var3 = msg.data.length - 0x04 + 0x04;
+                var4 = 0x04;
+                var2 = func_2EE2(var3, var4);
+                var1 = func_0739(var2);
+                var temp44 = var1;
+                var1 = 0x074b;
+                var2 = temp44;
+                var3 = memory[0x40:0x60];
+                var1 = func_34AB(var2, var3);
+                var temp45 = memory[0x40:0x60];
+                return memory[temp45:temp45 + var1 - temp45];
+            } else if (var0 == 0xf851a440) {
+                // Dispatch table entry for admin()
+                var1 = msg.value;
+            
+                if (var1) { revert(memory[0x00:0x00]); }
+            
+                var1 = 0x0769;
+                var1 = func_21C4();
+                var temp46 = var1;
+                var1 = 0x0776;
+                var3 = memory[0x40:0x60];
+                var2 = temp46;
+                var1 = func_3459(var2, var3);
+                var temp47 = memory[0x40:0x60];
+                return memory[temp47:temp47 + var1 - temp47];
+            } else { goto label_01E3; }
+        } else if (msg.data.length) {
+        label_01E3:
+            var var0 = 0x01ee;
+            var var1 = msg.value;
+            var var2 = 0x02;
+            func_077F(var1, var2);
+            stop();
+        } else {
+            var0 = 0x01e1;
+            var1 = msg.value;
+            var2 = 0x01;
+            func_077F(var1, var2);
+            stop();
+        }
+    }
+    
+    function func_023D(var arg0, var arg1) returns (var r0) {
+        r0 = func_0900(arg0, arg1);
+        // Error: Could not resolve method call return address!
+    }
+    
+    function func_02BC(var arg0, var arg1, var arg2) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x09db;
+        var1 = func_1231();
+    
+        if (!var1) {
+            memory[0x00:0x20] = arg0 & 0xffffffffffffffffffffffffffffffffffffffff;
+            memory[0x20:0x40] = 0x06;
+            var temp0 = keccak256(memory[0x00:0x40]);
+            memory[0x00:0x20] = msg.sender;
+            memory[0x20:0x40] = temp0;
+            var1 = storage[keccak256(memory[0x00:0x40])];
+        
+            if (var1 >= arg2) {
+                var var2 = 0x0aea;
+                var var3 = arg0;
+                var var4 = arg1;
+                var var5 = arg2;
+                func_21EE(var3, var4, var5);
+                var2 = 0x0b00;
+                var3 = arg0;
+                var4 = msg.sender;
+                var5 = 0x0afb;
+                var var6 = arg2;
+                var var7 = var1;
+                var5 = func_3B2E(var6, var7);
+                func_0AFB(var3, var4, var5);
+                return 0x01;
+            } else {
+                var temp1 = memory[0x40:0x60];
+                memory[temp1:temp1 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                var3 = temp1 + 0x04;
+                var2 = 0x0ad6;
+                var2 = func_36A8(var3);
+                var temp2 = memory[0x40:0x60];
+                revert(memory[temp2:temp2 + var2 - temp2]);
+            }
+        } else {
+            var temp3 = memory[0x40:0x60];
+            memory[temp3:temp3 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+            var2 = temp3 + 0x04;
+            var1 = 0x0a12;
+            var1 = func_3628(var2);
+            var temp4 = memory[0x40:0x60];
+            revert(memory[temp4:temp4 + var1 - temp4]);
+        }
+    }
+    
+    function func_02F9(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = storage[0x02] & 0xffffffffffffffffffffffffffffffffffffffff == msg.sender;
+    
+        if (var1) {
+            if (var1) {
+            label_0BF6:
+                var1 = 0x0bfe;
+                var1 = func_21C4();
+            
+                if (var1 & 0xffffffffffffffffffffffffffffffffffffffff == 0xffffffffffffffffffffffffffffffffffffffff & 0x00) {
+                    var temp4 = memory[0x40:0x60];
+                    memory[temp4:temp4 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                    var3 = temp4 + 0x04;
+                    var2 = 0x0c65;
+                    var2 = func_3608(var3);
+                    var temp5 = memory[0x40:0x60];
+                    revert(memory[temp5:temp5 + var2 - temp5]);
+                } else if (var1 & 0xffffffffffffffffffffffffffffffffffffffff == address(this)) {
+                    var temp2 = memory[0x40:0x60];
+                    memory[temp2:temp2 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                    var2 = 0x0cd4;
+                    var3 = temp2 + 0x04;
+                    var2 = func_3568(var3);
+                    var temp3 = memory[0x40:0x60];
+                    revert(memory[temp3:temp3 + var2 - temp3]);
+                } else if (var1 & 0xffffffffffffffffffffffffffffffffffffffff != storage[0x02] & 0xffffffffffffffffffffffffffffffffffffffff) {
+                    var var2 = 0x0d77;
+                    var var3 = arg0;
+                    func_2630(var3);
+                    return 0x01;
+                } else {
+                    var temp0 = memory[0x40:0x60];
+                    memory[temp0:temp0 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                    var2 = 0x0d65;
+                    var3 = temp0 + 0x04;
+                    var2 = func_36E8(var3);
+                    var temp1 = memory[0x40:0x60];
+                    revert(memory[temp1:temp1 + var2 - temp1]);
+                }
+            } else {
+            label_0BBC:
+                var temp6 = memory[0x40:0x60];
+                memory[temp6:temp6 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                var2 = temp6 + 0x04;
+                var1 = 0x0bed;
+                var1 = func_3768(var2);
+                var temp7 = memory[0x40:0x60];
+                revert(memory[temp7:temp7 + var1 - temp7]);
+            }
+        } else if (storage[0x03] & 0xffffffffffffffffffffffffffffffffffffffff == msg.sender) { goto label_0BF6; }
+        else { goto label_0BBC; }
+    }
+    
+    function func_0336(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = storage[0x02] & 0xffffffffffffffffffffffffffffffffffffffff == msg.sender;
+    
+        if (var1) {
+            if (var1) {
+            label_0E6B:
+                var1 = 0x0e73;
+                var1 = func_1918();
+            
+                if (var1 & 0xffffffffffffffffffffffffffffffffffffffff == 0xffffffffffffffffffffffffffffffffffffffff & 0x00) {
+                    var temp6 = memory[0x40:0x60];
+                    memory[temp6:temp6 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                    var3 = temp6 + 0x04;
+                    var2 = 0x0eda;
+                    var2 = func_3608(var3);
+                    var temp7 = memory[0x40:0x60];
+                    revert(memory[temp7:temp7 + var2 - temp7]);
+                } else if (var1 & 0xffffffffffffffffffffffffffffffffffffffff == address(this)) {
+                    var temp4 = memory[0x40:0x60];
+                    memory[temp4:temp4 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                    var3 = temp4 + 0x04;
+                    var2 = 0x0f49;
+                    var2 = func_3568(var3);
+                    var temp5 = memory[0x40:0x60];
+                    revert(memory[temp5:temp5 + var2 - temp5]);
+                } else if (var1 & 0xffffffffffffffffffffffffffffffffffffffff == storage[0x02] & 0xffffffffffffffffffffffffffffffffffffffff) {
+                    var temp2 = memory[0x40:0x60];
+                    memory[temp2:temp2 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                    var3 = temp2 + 0x04;
+                    var2 = 0x0fda;
+                    var2 = func_36E8(var3);
+                    var temp3 = memory[0x40:0x60];
+                    revert(memory[temp3:temp3 + var2 - temp3]);
+                } else if (var1 & 0xffffffffffffffffffffffffffffffffffffffff != storage[0x03] & 0xffffffffffffffffffffffffffffffffffffffff) {
+                    var var2 = 0x107d;
+                    var var3 = arg0;
+                    func_28D8(var3);
+                    return 0x01;
+                } else {
+                    var temp0 = memory[0x40:0x60];
+                    memory[temp0:temp0 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                    var3 = temp0 + 0x04;
+                    var2 = 0x106b;
+                    var2 = func_3528(var3);
+                    var temp1 = memory[0x40:0x60];
+                    revert(memory[temp1:temp1 + var2 - temp1]);
+                }
+            } else {
+            label_0E31:
+                var temp8 = memory[0x40:0x60];
+                memory[temp8:temp8 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                var2 = temp8 + 0x04;
+                var1 = 0x0e62;
+                var1 = func_3768(var2);
+                var temp9 = memory[0x40:0x60];
+                revert(memory[temp9:temp9 + var1 - temp9]);
+            }
+        } else if (storage[0x03] & 0xffffffffffffffffffffffffffffffffffffffff == msg.sender) { goto label_0E6B; }
+        else { goto label_0E31; }
+    }
+    
+    function func_039E(var arg0, var arg1) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x1124;
+        var var2 = msg.sender;
+        var var3 = arg0;
+        memory[0x00:0x20] = msg.sender;
+        memory[0x20:0x40] = 0x06;
+        var temp0 = keccak256(memory[0x00:0x40]);
+        memory[0x00:0x20] = var3 & 0xffffffffffffffffffffffffffffffffffffffff;
+        memory[0x20:0x40] = temp0;
+        var var4 = 0x111f;
+        var var5 = arg1;
+        var var6 = storage[keccak256(memory[0x00:0x40])];
+        var4 = func_38DC(var5, var6);
+        func_111F(var2, var3, var4);
+        return 0x01;
+    }
+    
+    function func_03DB(var arg0, var arg1) {
+        var var0 = storage[0x02] & 0xffffffffffffffffffffffffffffffffffffffff == msg.sender;
+    
+        if (var0) {
+            if (var0) {
+            label_1216:
+                var0 = 0x1220;
+                var var1 = arg0;
+                var var2 = arg1;
+                func_299D(var1, var2);
+                return;
+            } else {
+            label_11DC:
+                var temp0 = memory[0x40:0x60];
+                memory[temp0:temp0 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                var1 = temp0 + 0x04;
+                var0 = 0x120d;
+                var0 = func_3768(var1);
+                var temp1 = memory[0x40:0x60];
+                revert(memory[temp1:temp1 + var0 - temp1]);
+            }
+        } else if (storage[0x03] & 0xffffffffffffffffffffffffffffffffffffffff == msg.sender) { goto label_1216; }
+        else { goto label_11DC; }
+    }
+    
+    function func_0404(var arg0) {
+        var var0 = 0x122e;
+        var var1 = msg.sender;
+        var var2 = arg0;
+        func_2AE6(var1, var2);
+    }
+    
+    function func_0458(var arg0) returns (var r0) {
+        memory[0x00:0x20] = arg0 & 0xffffffffffffffffffffffffffffffffffffffff;
+        memory[0x20:0x40] = 0x05;
+        return storage[keccak256(memory[0x00:0x40])];
+    }
+    
+    function func_04AC(var arg0, var arg1) {
+        var var0 = 0x00;
+        var var1 = 0x13ed;
+        var var2 = arg0;
+        var var3 = msg.sender;
+        var1 = func_1B65(var2, var3);
+        var0 = var1;
+    
+        if (var0 >= arg1) {
+            var1 = 0x1448;
+            var2 = arg0;
+            var3 = msg.sender;
+            var var4 = 0x1443;
+            var var5 = arg1;
+            var var6 = var0;
+            var4 = func_3B2E(var5, var6);
+            func_1443(var2, var3, var4);
+            var1 = 0x1452;
+            var2 = arg0;
+            var3 = arg1;
+            func_2AE6(var2, var3);
+            return;
+        } else {
+            var temp0 = memory[0x40:0x60];
+            memory[temp0:temp0 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+            var2 = temp0 + 0x04;
+            var1 = 0x1429;
+            var1 = func_36C8(var2);
+            var temp1 = memory[0x40:0x60];
+            revert(memory[temp1:temp1 + var1 - temp1]);
+        }
+    }
+    
+    function func_04D5(var arg0) returns (var r0) {
+        var var0 = 0x00;
+    
+        if (storage[0x02] & 0xffffffffffffffffffffffffffffffffffffffff == msg.sender) {
+            var var1 = arg0;
+        
+            if (var1 & 0xffffffffffffffffffffffffffffffffffffffff == 0xffffffffffffffffffffffffffffffffffffffff & 0x00) {
+                var temp6 = memory[0x40:0x60];
+                memory[temp6:temp6 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                var2 = 0x1551;
+                var3 = temp6 + 0x04;
+                var2 = func_3608(var3);
+                var temp7 = memory[0x40:0x60];
+                revert(memory[temp7:temp7 + var2 - temp7]);
+            } else if (var1 & 0xffffffffffffffffffffffffffffffffffffffff == address(this)) {
+                var temp4 = memory[0x40:0x60];
+                memory[temp4:temp4 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                var3 = temp4 + 0x04;
+                var2 = 0x15c0;
+                var2 = func_3568(var3);
+                var temp5 = memory[0x40:0x60];
+                revert(memory[temp5:temp5 + var2 - temp5]);
+            } else if (var1 & 0xffffffffffffffffffffffffffffffffffffffff == storage[0x02] & 0xffffffffffffffffffffffffffffffffffffffff) {
+                var temp2 = memory[0x40:0x60];
+                memory[temp2:temp2 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                var2 = 0x1651;
+                var3 = temp2 + 0x04;
+                var2 = func_36E8(var3);
+                var temp3 = memory[0x40:0x60];
+                revert(memory[temp3:temp3 + var2 - temp3]);
+            } else if (var1 & 0xffffffffffffffffffffffffffffffffffffffff == storage[0x03] & 0xffffffffffffffffffffffffffffffffffffffff) {
+                var temp0 = memory[0x40:0x60];
+                memory[temp0:temp0 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                var2 = 0x16e2;
+                var3 = temp0 + 0x04;
+                var2 = func_3528(var3);
+                var temp1 = memory[0x40:0x60];
+                revert(memory[temp1:temp1 + var2 - temp1]);
+            } else if (storage[0x09] <= 0x00) {
+            label_174F:
+                var var2 = 0x1758;
+                var var3 = arg0;
+                func_2CB0(var3);
+                return 0x01;
+            } else {
+                var2 = 0x174e;
+                var3 = 0x1701;
+                var3 = func_21C4();
+                func_1701(arg0, var3);
+                goto label_174F;
+            }
+        } else {
+            var temp8 = memory[0x40:0x60];
+            memory[temp8:temp8 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+            var2 = temp8 + 0x04;
+            var1 = 0x14e0;
+            var1 = withdrawal(var2);
+            var temp9 = memory[0x40:0x60];
+            revert(memory[temp9:temp9 + var1 - temp9]);
+        }
+    }
+    
+    function func_0593(var arg0, var arg1) returns (var r0) {
+        var var0 = 0x00;
+        memory[0x00:0x20] = msg.sender;
+        memory[0x20:0x40] = 0x06;
+        var temp0 = keccak256(memory[0x00:0x40]);
+        memory[0x00:0x20] = arg0 & 0xffffffffffffffffffffffffffffffffffffffff;
+        memory[0x20:0x40] = temp0;
+        var var1 = storage[keccak256(memory[0x00:0x40])];
+    
+        if (var1 >= arg1) {
+            var var2 = 0x18ae;
+            var var3 = msg.sender;
+            var var4 = arg0;
+            var var5 = 0x18a9;
+            var var6 = arg1;
+            var var7 = var1;
+            var5 = func_3B2E(var6, var7);
+            func_18A9(var3, var4, var5);
+            return 0x01;
+        } else {
+            var temp1 = memory[0x40:0x60];
+            memory[temp1:temp1 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+            var3 = temp1 + 0x04;
+            var2 = 0x188f;
+            var2 = func_3808(var3);
+            var temp2 = memory[0x40:0x60];
+            revert(memory[temp2:temp2 + var2 - temp2]);
+        }
+    }
+    
+    function func_05D0(var arg0, var arg1) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x18c3;
+        var1 = func_1231();
+    
+        if (!var1) {
+            var1 = 0x190e;
+            var var2 = msg.sender;
+            var var3 = arg0;
+            var var4 = arg1;
+            func_21EE(var2, var3, var4);
+            return 0x01;
+        } else {
+            var temp0 = memory[0x40:0x60];
+            memory[temp0:temp0 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+            var2 = temp0 + 0x04;
+            var1 = 0x18fa;
+            var1 = func_3628(var2);
+            var temp1 = memory[0x40:0x60];
+            revert(memory[temp1:temp1 + var1 - temp1]);
+        }
+    }
+    
+    function func_0638(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = storage[0x02] & 0xffffffffffffffffffffffffffffffffffffffff == msg.sender;
+    
+        if (var1) {
+            if (var1) {
+            label_1A2C:
+                var temp0 = arg0;
+                var temp1 = memory[0x40:0x60];
+                log(memory[temp1:temp1 + memory[0x40:0x60] - temp1], [0xb01b0304cdcaffa13e4b57ecbe280da183afb719becd1d56e9211cc3781ea421, storage[0x0b], stack[-2]]);
+                storage[0x0b] = temp0;
+                return 0x01;
+            } else {
+            label_19F2:
+                var temp2 = memory[0x40:0x60];
+                memory[temp2:temp2 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                var var2 = temp2 + 0x04;
+                var1 = 0x1a23;
+                var1 = func_3768(var2);
+                var temp3 = memory[0x40:0x60];
+                revert(memory[temp3:temp3 + var1 - temp3]);
+            }
+        } else if (storage[0x03] & 0xffffffffffffffffffffffffffffffffffffffff == msg.sender) { goto label_1A2C; }
+        else { goto label_19F2; }
+    }
+    
+    function func_0696(var arg0, var arg1) returns (var r0) {
+        r0 = func_1B65(arg0, arg1);
+        // Error: Could not resolve method call return address!
+    }
+    
+    function func_06D3(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x1bf6;
+        var1 = func_2E1F();
+        memory[0x00:0x20] = arg0 & 0xffffffffffffffffffffffffffffffffffffffff;
+        memory[0x20:0x40] = 0x05;
+        var temp0 = var1;
+        var1 = 0x1c40;
+        var var2 = temp0;
+        var var3 = storage[keccak256(memory[0x00:0x40])];
+        return func_3932(var2, var3);
+    }
+    
+    function func_0710(var arg0) {
+        if (storage[0x02] & 0xffffffffffffffffffffffffffffffffffffffff != msg.sender) {
+            var temp4 = memory[0x40:0x60];
+            memory[temp4:temp4 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+            var0 = 0x1cce;
+            var1 = temp4 + 0x04;
+            var0 = withdrawal(var1);
+            var temp5 = memory[0x40:0x60];
+            revert(memory[temp5:temp5 + var0 - temp5]);
+        } else if (arg0 & 0xffffffffffffffffffffffffffffffffffffffff != 0xffffffffffffffffffffffffffffffffffffffff & 0x00) {
+            var temp0 = arg0;
+            var temp1 = memory[0x40:0x60];
+            log(memory[temp1:temp1 + memory[0x40:0x60] - temp1], [0x8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0, storage[0x02] & 0xffffffffffffffffffffffffffffffffffffffff, stack[-1] & 0xffffffffffffffffffffffffffffffffffffffff]);
+            storage[0x02] = (temp0 & 0xffffffffffffffffffffffffffffffffffffffff) | (storage[0x02] & ~0xffffffffffffffffffffffffffffffffffffffff);
+            return;
+        } else {
+            var temp2 = memory[0x40:0x60];
+            memory[temp2:temp2 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+            var var1 = temp2 + 0x04;
+            var var0 = 0x1d3e;
+            var0 = func_3688(var1);
+            var temp3 = memory[0x40:0x60];
+            revert(memory[temp3:temp3 + var0 - temp3]);
+        }
+    }
+    
+    function func_0739(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = storage[0x02] & 0xffffffffffffffffffffffffffffffffffffffff == msg.sender;
+    
+        if (var1) {
+            if (var1) {
+            label_1EF1:
+                var1 = arg0;
+            
+                if (var1 & 0xffffffffffffffffffffffffffffffffffffffff == 0xffffffffffffffffffffffffffffffffffffffff & 0x00) {
+                    var temp8 = memory[0x40:0x60];
+                    memory[temp8:temp8 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                    var3 = temp8 + 0x04;
+                    var2 = 0x1f59;
+                    var2 = func_3608(var3);
+                    var temp9 = memory[0x40:0x60];
+                    revert(memory[temp9:temp9 + var2 - temp9]);
+                } else if (var1 & 0xffffffffffffffffffffffffffffffffffffffff == address(this)) {
+                    var temp6 = memory[0x40:0x60];
+                    memory[temp6:temp6 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                    var3 = temp6 + 0x04;
+                    var2 = 0x1fc8;
+                    var2 = func_3568(var3);
+                    var temp7 = memory[0x40:0x60];
+                    revert(memory[temp7:temp7 + var2 - temp7]);
+                } else if (var1 & 0xffffffffffffffffffffffffffffffffffffffff == storage[0x02] & 0xffffffffffffffffffffffffffffffffffffffff) {
+                    var temp4 = memory[0x40:0x60];
+                    memory[temp4:temp4 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                    var3 = temp4 + 0x04;
+                    var2 = 0x2059;
+                    var2 = func_36E8(var3);
+                    var temp5 = memory[0x40:0x60];
+                    revert(memory[temp5:temp5 + var2 - temp5]);
+                } else if (var1 & 0xffffffffffffffffffffffffffffffffffffffff == storage[0x03] & 0xffffffffffffffffffffffffffffffffffffffff) {
+                    var temp2 = memory[0x40:0x60];
+                    memory[temp2:temp2 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                    var3 = temp2 + 0x04;
+                    var2 = 0x20ea;
+                    var2 = func_3528(var3);
+                    var temp3 = memory[0x40:0x60];
+                    revert(memory[temp3:temp3 + var2 - temp3]);
+                } else if (var1 & 0xffffffffffffffffffffffffffffffffffffffff == storage[0x04] & 0xffffffffffffffffffffffffffffffffffffffff) {
+                    var temp0 = memory[0x40:0x60];
+                    memory[temp0:temp0 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                    var3 = temp0 + 0x04;
+                    var2 = 0x217b;
+                    var2 = func_35C8(var3);
+                    var temp1 = memory[0x40:0x60];
+                    revert(memory[temp1:temp1 + var2 - temp1]);
+                } else if (storage[0x0a] <= 0x00) {
+                label_21B1:
+                    var var2 = 0x21ba;
+                    var var3 = arg0;
+                    func_2E3D(var3);
+                    return 0x01;
+                } else {
+                    var2 = 0x21a2;
+                    var3 = 0x219a;
+                    var3 = func_1918();
+                    var2 = func_219A(var3);
+                    var2 = 0x21af;
+                    var3 = arg0;
+                    var var4 = storage[0x0a];
+                    var2 = func_0900(var3, var4);
+                    goto label_21B1;
+                }
+            } else {
+            label_1EB7:
+                var temp10 = memory[0x40:0x60];
+                memory[temp10:temp10 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                var2 = temp10 + 0x04;
+                var1 = 0x1ee8;
+                var1 = func_3768(var2);
+                var temp11 = memory[0x40:0x60];
+                revert(memory[temp11:temp11 + var1 - temp11]);
+            }
+        } else if (storage[0x03] & 0xffffffffffffffffffffffffffffffffffffffff == msg.sender) { goto label_1EF1; }
+        else { goto label_1EB7; }
+    }
+    
+    function func_077F(var arg0, var arg1) {
+        if (storage[0x0b] > 0x00) {
+            var var0 = 0x00;
+            var var1 = 0x07d4;
+            var var3 = arg0;
+            var var2 = storage[0x0b];
+            var1 = func_3AD4(var2, var3);
+            var0 = var1;
+            var1 = 0x00;
+            var2 = 0x07e8;
+            var3 = 0x07e3;
+            var3 = func_1762();
+            var2 = func_07E3(var3);
+            var1 = var2;
+        
+            if (arg0 <= 0x00) {
+                var temp3 = memory[0x40:0x60];
+                memory[temp3:temp3 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                var3 = temp3 + 0x04;
+                var2 = 0x0824;
+                var2 = func_3648(var3);
+                var temp4 = memory[0x40:0x60];
+                revert(memory[temp4:temp4 + var2 - temp4]);
+            } else if (var0 <= var1) {
+                var2 = 0x99e37ffaa4c5f9918efdd33c09cf5e154a91ef920bf53586ac6bbcd87277a86f;
+                var3 = 0x08a3;
+                var var4 = arg0;
+                var var5 = var0;
+                var var7 = memory[0x40:0x60];
+                var var6 = arg1;
+                var3 = func_3863(var4, var5, var6, var7);
+                var temp0 = memory[0x40:0x60];
+                log(memory[temp0:temp0 + var3 - temp0], [stack[-2]]);
+                var2 = 0x08bd;
+                var3 = 0x08b6;
+                var3 = func_1762();
+                func_08B6(var0, var3);
+                return;
+            } else {
+                var temp1 = memory[0x40:0x60];
+                memory[temp1:temp1 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                var3 = temp1 + 0x04;
+                var2 = 0x0867;
+                var2 = func_3728(var3);
+                var temp2 = memory[0x40:0x60];
+                revert(memory[temp2:temp2 + var2 - temp2]);
+            }
+        } else {
+            var temp5 = memory[0x40:0x60];
+            memory[temp5:temp5 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+            var1 = temp5 + 0x04;
+            var0 = 0x07bb;
+            var0 = func_3668(var1);
+            var temp6 = memory[0x40:0x60];
+            revert(memory[temp6:temp6 + var0 - temp6]);
+        }
+    }
+    
+    function func_07E3(var arg0) returns (var r0) {
+        memory[0x00:0x20] = arg0 & 0xffffffffffffffffffffffffffffffffffffffff;
+        memory[0x20:0x40] = 0x05;
+        return storage[keccak256(memory[0x00:0x40])];
+    }
+    
+    function func_08B6(var arg0, var arg1) {
+        var var0 = msg.sender;
+        var var1 = arg0;
+        func_21EE(arg1, var0, var1);
+        // Error: Could not resolve method call return address!
+    }
+    
+    function func_08C3() returns (var r0) {
+        var temp0 = memory[0x40:0x60];
+        memory[0x40:0x60] = temp0 + 0x40;
+        memory[temp0:temp0 + 0x20] = 0x05;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x446f6c6c79000000000000000000000000000000000000000000000000000000;
+        return temp0;
+    }
+    
+    function func_0900(var arg0, var arg1) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x090d;
+        var var2 = msg.sender;
+        var var3 = arg0;
+        var var4 = arg1;
+        func_2465(var2, var3, var4);
+        return 0x01;
+    }
+    
+    function func_0917() returns (var r0) { return storage[0x08]; }
+    
+    function func_0AFB(var arg0, var arg1, var arg2) {
+        func_2465(arg0, arg1, arg2);
+        // Error: Could not resolve method call return address!
+    }
+    
+    function func_1087() returns (var r0) { return 0x12; }
+    
+    function func_111F(var arg0, var arg1, var arg2) {
+        func_2465(arg0, arg1, arg2);
+        // Error: Could not resolve method call return address!
+    }
+    
+    function func_1231() returns (var r0) { return storage[0x00] & 0xff; }
+    
+    function renounceOwnership() {
+        if (storage[0x02] & 0xffffffffffffffffffffffffffffffffffffffff == msg.sender) {
+            var temp0 = memory[0x40:0x60];
+            log(memory[temp0:temp0 + memory[0x40:0x60] - temp0], [0x8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0, storage[0x02] & 0xffffffffffffffffffffffffffffffffffffffff, 0xffffffffffffffffffffffffffffffffffffffff & 0x00]);
+            storage[0x02] = (storage[0x02] & ~0xffffffffffffffffffffffffffffffffffffffff) | 0x00;
+            return;
+        } else {
+            var temp1 = memory[0x40:0x60];
+            memory[temp1:temp1 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+            var var0 = 0x1317;
+            var var1 = temp1 + 0x04;
+            var0 = withdrawal(var1);
+            var temp2 = memory[0x40:0x60];
+            revert(memory[temp2:temp2 + var0 - temp2]);
+        }
+    }
+    
+    function func_1443(var arg0, var arg1, var arg2) {
+        func_2465(arg0, arg1, arg2);
+        // Error: Could not resolve method call return address!
+    }
+    
+    function func_1701(var arg0, var arg1) {
+        var var0 = arg0;
+        var var1 = 0x05;
+        var var2 = 0x00;
+        var var3 = 0x170e;
+        var3 = func_21C4();
+        var temp0 = var2;
+        memory[temp0:temp0 + 0x20] = var3 & 0xffffffffffffffffffffffffffffffffffffffff;
+        var temp1 = temp0 + 0x20;
+        memory[temp1:temp1 + 0x20] = var1;
+        var1 = storage[keccak256(memory[0x00:0x00 + temp1 + 0x20])];
+        func_21EE(arg1, var0, var1);
+        // Error: Could not resolve method call return address!
+    }
+    
+    function func_1762() returns (var r0) { return storage[0x02] & 0xffffffffffffffffffffffffffffffffffffffff; }
+    
+    function func_178C() returns (var r0) {
+        var temp0 = memory[0x40:0x60];
+        memory[0x40:0x60] = temp0 + 0x40;
+        memory[temp0:temp0 + 0x20] = 0x03;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x444f4c0000000000000000000000000000000000000000000000000000000000;
+        return temp0;
+    }
+    
+    function func_17C9() returns (var r0) { return storage[0x0b]; }
+    
+    function func_18A9(var arg0, var arg1, var arg2) {
+        func_2465(arg0, arg1, arg2);
+        // Error: Could not resolve method call return address!
+    }
+    
+    function func_1918() returns (var r0) { return storage[0x04] & 0xffffffffffffffffffffffffffffffffffffffff; }
+    
+    function buyTokens() {
+        var var0 = 0x1a77;
+        var var1 = msg.value;
+        var var2 = 0x00;
+        func_077F(var1, var2);
+    }
+    
+    function func_1B65(var arg0, var arg1) returns (var r0) {
+        memory[0x00:0x20] = arg0 & 0xffffffffffffffffffffffffffffffffffffffff;
+        memory[0x20:0x40] = 0x06;
+        var temp0 = keccak256(memory[0x00:0x40]);
+        memory[0x00:0x20] = arg1 & 0xffffffffffffffffffffffffffffffffffffffff;
+        memory[0x20:0x40] = temp0;
+        return storage[keccak256(memory[0x00:0x40])];
+    }
+    
+    function func_219A(var arg0) returns (var r0) {
+        var var0 = storage[0x0a];
+        var var1 = 0x00;
+        memory[0x00:0x20] = msg.sender;
+        memory[0x20:0x40] = 0x06;
+        var temp0 = keccak256(memory[0x00:0x40]);
+        memory[0x00:0x20] = arg0 & 0xffffffffffffffffffffffffffffffffffffffff;
+        memory[0x20:0x40] = temp0;
+        var var2 = storage[keccak256(memory[0x00:0x40])];
+    
+        if (var2 >= var0) {
+            var var3 = 0x18ae;
+            var var4 = msg.sender;
+            var var5 = arg0;
+            var var6 = 0x18a9;
+            var var7 = var0;
+            var var8 = var2;
+            var6 = func_3B2E(var7, var8);
+            func_18A9(var4, var5, var6);
+            return 0x01;
+        } else {
+            var temp1 = memory[0x40:0x60];
+            memory[temp1:temp1 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+            var4 = temp1 + 0x04;
+            var3 = 0x188f;
+            var3 = func_3808(var4);
+            var temp2 = memory[0x40:0x60];
+            revert(memory[temp2:temp2 + var3 - temp2]);
+        }
+    }
+    
+    function func_21C4() returns (var r0) { return storage[0x03] & 0xffffffffffffffffffffffffffffffffffffffff; }
+    
+    function func_21EE(var arg0, var arg1, var arg2) {
+        if (arg0 & 0xffffffffffffffffffffffffffffffffffffffff == 0xffffffffffffffffffffffffffffffffffffffff & 0x00) {
+            var temp5 = memory[0x40:0x60];
+            memory[temp5:temp5 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+            var1 = temp5 + 0x04;
+            var0 = 0x2255;
+            var0 = func_3748(var1);
+            var temp6 = memory[0x40:0x60];
+            revert(memory[temp6:temp6 + var0 - temp6]);
+        } else if (arg1 & 0xffffffffffffffffffffffffffffffffffffffff != 0xffffffffffffffffffffffffffffffffffffffff & 0x00) {
+            memory[0x00:0x20] = arg0 & 0xffffffffffffffffffffffffffffffffffffffff;
+            memory[0x20:0x40] = 0x05;
+            var var0 = storage[keccak256(memory[0x00:0x40])];
+        
+            if (var0 >= arg2) {
+                var var1 = 0x2361;
+                var var2 = arg2;
+                var var3 = var0;
+                var1 = func_3B2E(var2, var3);
+                memory[0x00:0x20] = arg0 & 0xffffffffffffffffffffffffffffffffffffffff;
+                memory[0x20:0x40] = 0x05;
+                storage[keccak256(memory[0x00:0x40])] = var1;
+                var1 = arg2;
+                memory[0x00:0x20] = arg1 & 0xffffffffffffffffffffffffffffffffffffffff;
+                memory[0x20:0x40] = 0x05;
+                var2 = keccak256(memory[0x00:0x40]);
+                var3 = 0x00;
+                var var4 = 0x23f3;
+                var var6 = storage[var2];
+                var var5 = var1;
+                var4 = func_38DC(var5, var6);
+                storage[var2] = var4;
+                var1 = arg1 & 0xffffffffffffffffffffffffffffffffffffffff;
+                var2 = arg0 & 0xffffffffffffffffffffffffffffffffffffffff;
+                var3 = 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef;
+                var4 = 0x2457;
+                var6 = memory[0x40:0x60];
+                var5 = arg2;
+                var4 = func_3848(var5, var6);
+                var temp0 = memory[0x40:0x60];
+                log(memory[temp0:temp0 + var4 - temp0], [stack[-2], stack[-3], stack[-4]]);
+                return;
+            } else {
+                var temp1 = memory[0x40:0x60];
+                memory[temp1:temp1 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                var1 = 0x234c;
+                var2 = temp1 + 0x04;
+                var1 = func_3588(var2);
+                var temp2 = memory[0x40:0x60];
+                revert(memory[temp2:temp2 + var1 - temp2]);
+            }
+        } else {
+            var temp3 = memory[0x40:0x60];
+            memory[temp3:temp3 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+            var1 = temp3 + 0x04;
+            var0 = 0x22c5;
+            var0 = func_34E8(var1);
+            var temp4 = memory[0x40:0x60];
+            revert(memory[temp4:temp4 + var0 - temp4]);
+        }
+    }
+    
+    function func_2465(var arg0, var arg1, var arg2) {
+        if (arg0 & 0xffffffffffffffffffffffffffffffffffffffff == 0xffffffffffffffffffffffffffffffffffffffff & 0x00) {
+            var temp6 = memory[0x40:0x60];
+            memory[temp6:temp6 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+            var1 = temp6 + 0x04;
+            var0 = 0x24cc;
+            var0 = func_3788(var1);
+            var temp7 = memory[0x40:0x60];
+            revert(memory[temp7:temp7 + var0 - temp7]);
+        } else if (arg1 & 0xffffffffffffffffffffffffffffffffffffffff != 0xffffffffffffffffffffffffffffffffffffffff & 0x00) {
+            var temp0 = arg0;
+            memory[0x00:0x20] = temp0 & 0xffffffffffffffffffffffffffffffffffffffff;
+            memory[0x20:0x40] = 0x06;
+            var temp1 = keccak256(memory[0x00:0x40]);
+            var temp2 = arg1;
+            memory[0x00:0x20] = temp2 & 0xffffffffffffffffffffffffffffffffffffffff;
+            memory[0x20:0x40] = temp1;
+            storage[keccak256(memory[0x00:0x40])] = arg2;
+            var var0 = temp2 & 0xffffffffffffffffffffffffffffffffffffffff;
+            var var1 = temp0 & 0xffffffffffffffffffffffffffffffffffffffff;
+            var var2 = 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925;
+            var var3 = 0x2623;
+            var var4 = arg2;
+            var var5 = memory[0x40:0x60];
+            var3 = func_3848(var4, var5);
+            var temp3 = memory[0x40:0x60];
+            log(memory[temp3:temp3 + var3 - temp3], [stack[-2], stack[-3], stack[-4]]);
+            return;
+        } else {
+            var temp4 = memory[0x40:0x60];
+            memory[temp4:temp4 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+            var1 = temp4 + 0x04;
+            var0 = 0x253c;
+            var0 = func_3548(var1);
+            var temp5 = memory[0x40:0x60];
+            revert(memory[temp5:temp5 + var0 - temp5]);
+        }
+    }
+    
+    function func_2630(var arg0) {
+        if (arg0 >= storage[0x08]) {
+            var temp11 = memory[0x40:0x60];
+            memory[temp11:temp11 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+            var1 = temp11 + 0x04;
+            var0 = 0x266b;
+            var0 = func_37C8(var1);
+            var temp12 = memory[0x40:0x60];
+            revert(memory[temp12:temp12 + var0 - temp12]);
+        } else if (storage[0x09] <= 0x00) {
+        label_2742:
+            storage[0x09] = 0x00;
+            var var0 = 0x00;
+            var var1 = 0x05;
+            var var2 = 0x00;
+            var var3 = 0x2758;
+            var3 = func_21C4();
+            var temp0 = var2;
+            memory[temp0:temp0 + 0x20] = var3 & 0xffffffffffffffffffffffffffffffffffffffff;
+            var temp1 = temp0 + 0x20;
+            memory[temp1:temp1 + 0x20] = var1;
+            storage[keccak256(memory[0x00:0x00 + temp1 + 0x20])] = var0;
+        
+            if (arg0 <= 0x00) {
+            label_28D5:
+                return;
+            } else {
+                var0 = 0x27a7;
+                var0 = func_2E1F();
+                var temp2 = var0;
+                var0 = 0x27b2;
+                var2 = arg0;
+                var1 = temp2;
+                var0 = func_3AD4(var1, var2);
+                storage[0x09] = var0;
+                var0 = storage[0x09];
+                var1 = 0x05;
+                var2 = 0x00;
+                var3 = 0x27c7;
+                var3 = func_21C4();
+                var temp3 = var2;
+                memory[temp3:temp3 + 0x20] = var3 & 0xffffffffffffffffffffffffffffffffffffffff;
+                var temp4 = temp3 + 0x20;
+                memory[temp4:temp4 + 0x20] = var1;
+                storage[keccak256(memory[0x00:0x00 + temp4 + 0x20])] = var0;
+                var0 = 0x2815;
+                var2 = storage[0x08];
+                var1 = storage[0x09];
+                var0 = func_3B2E(var1, var2);
+                var1 = 0x05;
+                var2 = 0x00;
+                var3 = 0x2821;
+                var3 = func_1762();
+                var temp5 = var2;
+                memory[temp5:temp5 + 0x20] = var3 & 0xffffffffffffffffffffffffffffffffffffffff;
+                var temp6 = temp5 + 0x20;
+                memory[temp6:temp6 + 0x20] = var1;
+                storage[keccak256(memory[0x00:0x00 + temp6 + 0x20])] = var0;
+                var0 = 0x2867;
+                var0 = func_21C4();
+                var0 = var0 & 0xffffffffffffffffffffffffffffffffffffffff;
+                var1 = 0x2885;
+                var1 = func_1762();
+                var1 = var1 & 0xffffffffffffffffffffffffffffffffffffffff;
+                var2 = 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef;
+                var3 = 0x28cc;
+                var var5 = memory[0x40:0x60];
+                var var4 = storage[0x09];
+                var3 = func_3848(var4, var5);
+                var temp7 = memory[0x40:0x60];
+                log(memory[temp7:temp7 + var3 - temp7], [stack[-2], stack[-3], stack[-4]]);
+                goto label_28D5;
+            }
+        } else {
+            var0 = storage[0x08];
+            var1 = 0x05;
+            var2 = 0x00;
+            var3 = 0x268e;
+            var3 = func_1762();
+            var temp8 = var2;
+            memory[temp8:temp8 + 0x20] = var3 & 0xffffffffffffffffffffffffffffffffffffffff;
+            var temp9 = temp8 + 0x20;
+            memory[temp9:temp9 + 0x20] = var1;
+            storage[keccak256(memory[0x00:0x00 + temp9 + 0x20])] = var0;
+            var0 = 0x26d4;
+            var0 = func_1762();
+            var0 = var0 & 0xffffffffffffffffffffffffffffffffffffffff;
+            var1 = 0x26f2;
+            var1 = func_21C4();
+            var1 = var1 & 0xffffffffffffffffffffffffffffffffffffffff;
+            var2 = 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef;
+            var3 = 0x2739;
+            var4 = storage[0x09];
+            var5 = memory[0x40:0x60];
+            var3 = func_3848(var4, var5);
+            var temp10 = memory[0x40:0x60];
+            log(memory[temp10:temp10 + var3 - temp10], [stack[-2], stack[-3], stack[-4]]);
+            goto label_2742;
+        }
+    }
+    
+    function func_28D8(var arg0) {
+        var var0 = 0x00;
+        var var1 = 0x28e2;
+        var1 = func_2E1F();
+        var temp0 = var1;
+        var1 = 0x28ed;
+        var var3 = arg0;
+        var var2 = temp0;
+        var1 = func_3AD4(var2, var3);
+        var0 = var1;
+        var1 = 0x05;
+        var2 = 0x00;
+        var3 = 0x28fb;
+        var3 = func_1762();
+        var temp1 = var2;
+        memory[temp1:temp1 + 0x20] = var3 & 0xffffffffffffffffffffffffffffffffffffffff;
+        var temp2 = temp1 + 0x20;
+        memory[temp2:temp2 + 0x20] = var1;
+    
+        if (var0 < storage[keccak256(memory[0x00:0x00 + temp2 + 0x20])]) {
+            storage[0x0a] = var0;
+            var1 = 0x2999;
+            var2 = 0x2989;
+            var2 = func_1762();
+            func_2989(var2);
+            return;
+        } else {
+            var temp3 = memory[0x40:0x60];
+            memory[temp3:temp3 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+            var2 = temp3 + 0x04;
+            var1 = 0x296e;
+            var1 = func_37E8(var2);
+            var temp4 = memory[0x40:0x60];
+            revert(memory[temp4:temp4 + var1 - temp4]);
+        }
+    }
+    
+    function func_2989(var arg0) {
+        var var0 = 0x2991;
+        var0 = func_1918();
+        var var1 = storage[0x0a];
+        func_2465(arg0, var0, var1);
+        // Error: Could not resolve method call return address!
+    }
+    
+    function func_299D(var arg0, var arg1) {
+        if (arg0 & 0xffffffffffffffffffffffffffffffffffffffff != 0xffffffffffffffffffffffffffffffffffffffff & 0x00) {
+            var var0 = arg1;
+            var var1 = 0x08;
+            var var2 = 0x00;
+            var var3 = 0x2a1f;
+            var var4 = var0;
+            var var5 = storage[var1];
+            var3 = func_38DC(var4, var5);
+            storage[var1] = var3;
+            var0 = arg1;
+            memory[0x00:0x20] = arg0 & 0xffffffffffffffffffffffffffffffffffffffff;
+            memory[0x20:0x40] = 0x05;
+            var1 = keccak256(memory[0x00:0x40]);
+            var2 = 0x00;
+            var3 = 0x2a75;
+            var4 = var0;
+            var5 = storage[var1];
+            var3 = func_38DC(var4, var5);
+            storage[var1] = var3;
+            var0 = arg0 & 0xffffffffffffffffffffffffffffffffffffffff;
+            var1 = 0xffffffffffffffffffffffffffffffffffffffff & 0x00;
+            var2 = 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef;
+            var3 = 0x2ada;
+            var5 = memory[0x40:0x60];
+            var4 = arg1;
+            var3 = func_3848(var4, var5);
+            var temp0 = memory[0x40:0x60];
+            log(memory[temp0:temp0 + var3 - temp0], [stack[-2], stack[-3], stack[-4]]);
+            return;
+        } else {
+            var temp1 = memory[0x40:0x60];
+            memory[temp1:temp1 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+            var1 = temp1 + 0x04;
+            var0 = 0x2a04;
+            var0 = func_3828(var1);
+            var temp2 = memory[0x40:0x60];
+            revert(memory[temp2:temp2 + var0 - temp2]);
+        }
+    }
+    
+    function func_2AE6(var arg0, var arg1) {
+        if (arg0 & 0xffffffffffffffffffffffffffffffffffffffff != 0xffffffffffffffffffffffffffffffffffffffff & 0x00) {
+            memory[0x00:0x20] = arg0 & 0xffffffffffffffffffffffffffffffffffffffff;
+            memory[0x20:0x40] = 0x05;
+            var var0 = storage[keccak256(memory[0x00:0x40])];
+        
+            if (var0 >= arg1) {
+                var var1 = 0x2be9;
+                var var2 = arg1;
+                var var3 = var0;
+                var1 = func_3B2E(var2, var3);
+                memory[0x00:0x20] = arg0 & 0xffffffffffffffffffffffffffffffffffffffff;
+                memory[0x20:0x40] = 0x05;
+                storage[keccak256(memory[0x00:0x40])] = var1;
+                var1 = arg1;
+                var2 = 0x08;
+                var3 = 0x00;
+                var var4 = 0x2c3e;
+                var var5 = var1;
+                var var6 = storage[var2];
+                var4 = func_3B2E(var5, var6);
+                storage[var2] = var4;
+                var1 = 0xffffffffffffffffffffffffffffffffffffffff & 0x00;
+                var2 = arg0 & 0xffffffffffffffffffffffffffffffffffffffff;
+                var3 = 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef;
+                var4 = 0x2ca3;
+                var5 = arg1;
+                var6 = memory[0x40:0x60];
+                var4 = func_3848(var5, var6);
+                var temp0 = memory[0x40:0x60];
+                log(memory[temp0:temp0 + var4 - temp0], [stack[-2], stack[-3], stack[-4]]);
+                return;
+            } else {
+                var temp1 = memory[0x40:0x60];
+                memory[temp1:temp1 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+                var1 = 0x2bd4;
+                var2 = temp1 + 0x04;
+                var1 = func_3508(var2);
+                var temp2 = memory[0x40:0x60];
+                revert(memory[temp2:temp2 + var1 - temp2]);
+            }
+        } else {
+            var temp3 = memory[0x40:0x60];
+            memory[temp3:temp3 + 0x20] = 0x08c379a000000000000000000000000000000000000000000000000000000000;
+            var1 = temp3 + 0x04;
+            var0 = 0x2b4d;
+            var0 = func_3708(var1);
+            var temp4 = memory[0x40:0x60];
+            revert(memory[temp4:temp4 + var0 - temp4]);
+        }
+    }
+    
+    function func_2CB0(var arg0) {
+        storage[0x03] = (arg0 & 0xffffffffffffffffffffffffffffffffffffffff) | (storage[0x03] & ~0xffffffffffffffffffffffffffffffffffffffff);
+        var var0 = 0x7ce7ec0b50378fb6c0186ffb5f48325f6593fcb4ca4386f21861af3129188f5c;
+        var var1 = 0x2d20;
+        var var2 = arg0;
+        var var3 = memory[0x40:0x60];
+        var1 = func_3459(var2, var3);
+        var temp0 = memory[0x40:0x60];
+        log(memory[temp0:temp0 + var1 - temp0], [stack[-2]]);
+    }
+    
+    function func_2E1F() returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x2e29;
+        var1 = func_1087();
+        var temp0 = var1 & 0xff;
+        var1 = 0x2e38;
+        var var2 = temp0;
+        var var3 = 0x0a;
+        return func_39B6(var2, var3);
+    }
+    
+    function func_2E3D(var arg0) {
+        storage[0x04] = (arg0 & 0xffffffffffffffffffffffffffffffffffffffff) | (storage[0x04] & ~0xffffffffffffffffffffffffffffffffffffffff);
+        var var0 = 0x2a797b221ca08ea376f1f365187b2146570a94593bd70014bd0bc664d2fc0758;
+        var var1 = 0x2ead;
+        var var2 = arg0;
+        var var3 = memory[0x40:0x60];
+        var1 = func_3459(var2, var3);
+        var temp0 = memory[0x40:0x60];
+        log(memory[temp0:temp0 + var1 - temp0], [stack[-2]]);
+    }
+    
+    function func_2EB8(var arg0, var arg1) returns (var r0) {
+        var var0 = msg.data[arg1:arg1 + 0x20];
+        var var1 = 0x2ec7;
+        var var2 = var0;
+        func_4426(var2);
+        return var0;
+    }
+    
+    function func_2ECD(var arg0, var arg1) returns (var r0) {
+        var var0 = msg.data[arg1:arg1 + 0x20];
+        var var1 = 0x2edc;
+        var var2 = var0;
+        func_443D(var2);
+        return var0;
+    }
+    
+    function func_2EE2(var arg0, var arg1) returns (var r0) {
+        var var0 = 0x00;
+    
+        if (arg0 - arg1 i< 0x20) { revert(memory[0x00:0x00]); }
+    
+        var var1 = 0x00;
+        var var2 = 0x2f02;
+        var var3 = arg0;
+        var var4 = arg1 + var1;
+        return func_2EB8(var3, var4);
+    }
+    
+    function func_2F0B(var arg0, var arg1) returns (var r0, var arg0) {
+        var var0 = 0x00;
+        var var1 = var0;
+    
+        if (arg0 - arg1 i< 0x40) { revert(memory[0x00:0x00]); }
+    
+        var var2 = 0x00;
+        var var3 = 0x2f2c;
+        var var4 = arg0;
+        var var5 = arg1 + var2;
+        var3 = func_2EB8(var4, var5);
+        var0 = var3;
+        var2 = 0x20;
+        var3 = 0x2f3d;
+        var4 = arg0;
+        var5 = arg1 + var2;
+        var3 = func_2EB8(var4, var5);
+        arg0 = var3;
+        r0 = var0;
+        return r0, arg0;
+    }
+    
+    function func_2F47(var arg0, var arg1) returns (var r0, var arg0, var arg1) {
+        var var0 = 0x00;
+        var var1 = var0;
+        var var2 = 0x00;
+    
+        if (arg0 - arg1 i< 0x60) { revert(memory[0x00:0x00]); }
+    
+        var var3 = 0x00;
+        var var4 = 0x2f6a;
+        var var5 = arg0;
+        var var6 = arg1 + var3;
+        var4 = func_2EB8(var5, var6);
+        var0 = var4;
+        var3 = 0x20;
+        var4 = 0x2f7b;
+        var5 = arg0;
+        var6 = arg1 + var3;
+        var4 = func_2EB8(var5, var6);
+        var1 = var4;
+        var3 = 0x40;
+        var4 = 0x2f8c;
+        var5 = arg0;
+        var6 = arg1 + var3;
+        var4 = func_2ECD(var5, var6);
+        arg1 = var4;
+        arg0 = var1;
+        r0 = var0;
+        return r0, arg0, arg1;
+    }
+    
+    function func_2F96(var arg0, var arg1) returns (var r0, var arg0) {
+        var var0 = 0x00;
+        var var1 = var0;
+    
+        if (arg0 - arg1 i< 0x40) { revert(memory[0x00:0x00]); }
+    
+        var var2 = 0x00;
+        var var3 = 0x2fb7;
+        var var4 = arg0;
+        var var5 = arg1 + var2;
+        var3 = func_2EB8(var4, var5);
+        var0 = var3;
+        var2 = 0x20;
+        var3 = 0x2fc8;
+        var4 = arg0;
+        var5 = arg1 + var2;
+        var3 = func_2ECD(var4, var5);
+        arg0 = var3;
+        r0 = var0;
+        return r0, arg0;
+    }
+    
+    function func_2FD2(var arg0, var arg1) returns (var r0) {
+        var var0 = 0x00;
+    
+        if (arg0 - arg1 i< 0x20) { revert(memory[0x00:0x00]); }
+    
+        var var1 = 0x00;
+        var var2 = 0x2ff2;
+        var var3 = arg0;
+        var var4 = arg1 + var1;
+        return func_2ECD(var3, var4);
+    }
+    
+    function func_2FFB(var arg0, var arg1) {
+        var var0 = 0x3004;
+        var var1 = arg1;
+        var0 = func_3B62(var1);
+        memory[arg0:arg0 + 0x20] = var0;
+    }
+    
+    function func_300A(var arg0, var arg1) {
+        var var0 = 0x3013;
+        var var1 = arg1;
+        var0 = func_3B74(var1);
+        memory[arg0:arg0 + 0x20] = var0;
+    }
+    
+    function func_3019(var arg0, var arg1) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x3024;
+        var var2 = arg1;
+        var1 = func_38B5(var2);
+        var2 = 0x302e;
+        var var3 = var1;
+        var var4 = arg0;
+        var2 = func_38CB(var3, var4);
+        var temp0 = var2;
+        arg0 = temp0;
+        var2 = 0x303e;
+        var3 = var1;
+        var4 = arg0;
+        var var5 = arg1 + 0x20;
+        func_3BB7(var3, var4, var5);
+        var2 = 0x3047;
+        var3 = var1;
+        var2 = func_3C48(var3);
+        return arg0 + var2;
+    }
+    
+    function func_3052(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x305f;
+        var var2 = 0x23;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x306a;
+        var2 = arg0;
+        func_3C66(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_3075(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x3082;
+        var var2 = 0x22;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x308d;
+        var2 = arg0;
+        func_3CB5(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_3098(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x30a5;
+        var var2 = 0x26;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x30b0;
+        var2 = arg0;
+        func_3D04(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_30BB(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x30c8;
+        var var2 = 0x22;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x30d3;
+        var2 = arg0;
+        func_3D53(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_30DE(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x30eb;
+        var var2 = 0x24;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x30f6;
+        var2 = arg0;
+        func_3DA2(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_3101(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x310e;
+        var var2 = 0x26;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x3119;
+        var2 = arg0;
+        func_3DF1(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_3147(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x3154;
+        var var2 = 0x36;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x315f;
+        var2 = arg0;
+        func_3E8F(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_318D(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x319a;
+        var var2 = 0x1f;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x31a5;
+        var2 = arg0;
+        func_3F07(var2);
+        return arg0 + 0x20;
+    }
+    
+    function func_31B0(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x31bd;
+        var var2 = 0x10;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x31c8;
+        var2 = arg0;
+        func_3F30(var2);
+        return arg0 + 0x20;
+    }
+    
+    function func_31D3(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x31e0;
+        var var2 = 0x22;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x31eb;
+        var2 = arg0;
+        func_3F59(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_31F6(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x3203;
+        var var2 = 0x2b;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x320e;
+        var2 = arg0;
+        func_3FA8(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_3219(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x3226;
+        var var2 = 0x24;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x3231;
+        var2 = arg0;
+        func_3FF7(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_323C(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x3249;
+        var var2 = 0x28;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x3254;
+        var2 = arg0;
+        func_4046(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_325F(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x326c;
+        var var2 = 0x24;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x3277;
+        var2 = arg0;
+        func_4095(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_3282(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x328f;
+        var var2 = 0x26;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x329a;
+        var2 = arg0;
+        func_40E4(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_32A5(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x32b2;
+        var var2 = 0x21;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x32bd;
+        var2 = arg0;
+        func_4133(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_32C8(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x32d5;
+        var var2 = 0x27;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x32e0;
+        var2 = arg0;
+        func_4182(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_32EB(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x32f8;
+        var var2 = 0x25;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x3303;
+        var2 = arg0;
+        func_41D1(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_330E(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x331b;
+        var var2 = 0x2f;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x3326;
+        var2 = arg0;
+        func_4220(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_3354(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x3361;
+        var var2 = 0x24;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x336c;
+        var2 = arg0;
+        func_4272(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_3377(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x3384;
+        var var2 = 0x2f;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x338f;
+        var2 = arg0;
+        func_42C1(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_339A(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x33a7;
+        var var2 = 0x2e;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x33b2;
+        var2 = arg0;
+        func_4310(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_33BD(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x33ca;
+        var var2 = 0x2d;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x33d5;
+        var2 = arg0;
+        func_435F(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_33E0(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x33ed;
+        var var2 = 0x25;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x33f8;
+        var2 = arg0;
+        func_43AE(var2);
+        return arg0 + 0x40;
+    }
+    
+    function func_3403(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x3410;
+        var var2 = 0x1f;
+        var var3 = arg0;
+        var1 = func_38CB(var2, var3);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x341b;
+        var2 = arg0;
+        func_43FD(var2);
+        return arg0 + 0x20;
+    }
+    
+    function func_3426(var arg0, var arg1) {
+        var var0 = 0x342f;
+        var var1 = arg1;
+        var0 = func_3BA0(var1);
+        memory[arg0:arg0 + 0x20] = var0;
+    }
+    
+    function func_3435(var arg0, var arg1) {
+        var var0 = 0x343e;
+        var var1 = arg1;
+        var0 = func_3BAA(var1);
+        memory[arg0:arg0 + 0x20] = var0;
+    }
+    
+    function func_3459(var arg0, var arg1) returns (var r0) {
+        var temp0 = arg1;
+        var var0 = temp0 + 0x20;
+        var var1 = 0x346e;
+        var var2 = temp0;
+        var var3 = arg0;
+        func_2FFB(var2, var3);
+        return var0;
+    }
+    
+    function func_34AB(var arg0, var arg1) returns (var r0) {
+        var temp0 = arg1;
+        var var0 = temp0 + 0x20;
+        var var1 = 0x34c0;
+        var var2 = temp0;
+        var var3 = arg0;
+        func_300A(var2, var3);
+        return var0;
+    }
+    
+    function func_34C6(var arg0, var arg1) returns (var r0) {
+        var temp0 = arg1;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x34e0;
+        var var2 = var0;
+        var var3 = arg0;
+        return func_3019(var2, var3);
+    }
+    
+    function func_34E8(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x3501;
+        var var2 = var0;
+        return func_3052(var2);
+    }
+    
+    function func_3508(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x3521;
+        var var2 = var0;
+        return func_3075(var2);
+    }
+    
+    function func_3528(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x3541;
+        var var2 = var0;
+        return func_3098(var2);
+    }
+    
+    function func_3548(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x3561;
+        var var2 = var0;
+        return func_30BB(var2);
+    }
+    
+    function func_3568(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x3581;
+        var var2 = var0;
+        return func_30DE(var2);
+    }
+    
+    function func_3588(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x35a1;
+        var var2 = var0;
+        return func_3101(var2);
+    }
+    
+    function func_35C8(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x35e1;
+        var var2 = var0;
+        return func_3147(var2);
+    }
+    
+    function func_3608(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x3621;
+        var var2 = var0;
+        return func_318D(var2);
+    }
+    
+    function func_3628(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x3641;
+        var var2 = var0;
+        return func_31B0(var2);
+    }
+    
+    function func_3648(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x3661;
+        var var2 = var0;
+        return func_31D3(var2);
+    }
+    
+    function func_3668(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x3681;
+        var var2 = var0;
+        return func_31F6(var2);
+    }
+    
+    function func_3688(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x36a1;
+        var var2 = var0;
+        return func_3219(var2);
+    }
+    
+    function func_36A8(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x36c1;
+        var var2 = var0;
+        return func_323C(var2);
+    }
+    
+    function func_36C8(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x36e1;
+        var var2 = var0;
+        return func_325F(var2);
+    }
+    
+    function func_36E8(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x3701;
+        var var2 = var0;
+        return func_3282(var2);
+    }
+    
+    function func_3708(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x3721;
+        var var2 = var0;
+        return func_32A5(var2);
+    }
+    
+    function func_3728(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x3741;
+        var var2 = var0;
+        return func_32C8(var2);
+    }
+    
+    function func_3748(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x3761;
+        var var2 = var0;
+        return func_32EB(var2);
+    }
+    
+    function func_3768(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x3781;
+        var var2 = var0;
+        return func_330E(var2);
+    }
+    
+    function func_3788(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x37a1;
+        var var2 = var0;
+        return func_3354(var2);
+    }
+    
+    function withdrawal(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x37c1;
+        var var2 = var0;
+        return func_3377(var2);
+    }
+    
+    function func_37C8(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x37e1;
+        var var2 = var0;
+        return func_339A(var2);
+    }
+    
+    function func_37E8(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x3801;
+        var var2 = var0;
+        return func_33BD(var2);
+    }
+    
+    function func_3808(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x3821;
+        var var2 = var0;
+        return func_33E0(var2);
+    }
+    
+    function func_3828(var arg0) returns (var r0) {
+        var temp0 = arg0;
+        var var0 = temp0 + 0x20;
+        memory[temp0:temp0 + 0x20] = var0 - temp0;
+        var var1 = 0x3841;
+        var var2 = var0;
+        return func_3403(var2);
+    }
+    
+    function func_3848(var arg0, var arg1) returns (var r0) {
+        var temp0 = arg1;
+        var var0 = temp0 + 0x20;
+        var var1 = 0x385d;
+        var var2 = temp0;
+        var var3 = arg0;
+        func_3426(var2, var3);
+        return var0;
+    }
+    
+    function func_3863(var arg0, var arg1, var arg2, var arg3) returns (var r0) {
+        var temp0 = arg3;
+        var var0 = temp0 + 0x60;
+        var var1 = 0x3878;
+        var var2 = temp0;
+        var var3 = arg0;
+        func_3426(var2, var3);
+        var1 = 0x3885;
+        var2 = arg3 + 0x20;
+        var3 = arg1;
+        func_3426(var2, var3);
+        var1 = 0x3892;
+        var2 = arg3 + 0x40;
+        var3 = arg2;
+        func_3435(var2, var3);
+        return var0;
+    }
+    
+    function func_389A(var arg0, var arg1) returns (var r0) {
+        var temp0 = arg1;
+        var var0 = temp0 + 0x20;
+        var var1 = 0x38af;
+        var var2 = temp0;
+        var var3 = arg0;
+        func_3435(var2, var3);
+        return var0;
+    }
+    
+    function func_38B5(var arg0) returns (var r0) { return memory[arg0:arg0 + 0x20]; }
+    
+    function func_38CB(var arg0, var arg1) returns (var r0) {
+        var temp0 = arg1;
+        memory[temp0:temp0 + 0x20] = arg0;
+        return temp0 + 0x20;
+    }
+    
+    function func_38DC(var arg0, var arg1) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x38e7;
+        var var2 = arg1;
+        var1 = func_3BA0(var2);
+        arg1 = var1;
+        var1 = 0x38f2;
+        var2 = arg0;
+        var1 = func_3BA0(var2);
+        arg0 = var1;
+    
+        if (arg1 <= 0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff - arg0) { return arg1 + arg0; }
+    
+        var1 = 0x3926;
+        memory[0x00:0x20] = 0x4e487b7100000000000000000000000000000000000000000000000000000000;
+        memory[0x04:0x24] = 0x11;
+        revert(memory[0x00:0x24]);
+    }
+    
+    function func_3932(var arg0, var arg1) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x393d;
+        var var2 = arg1;
+        var1 = func_3BA0(var2);
+        arg1 = var1;
+        var1 = 0x3948;
+        var2 = arg0;
+        var1 = func_3BA0(var2);
+        arg0 = var1;
+    
+        if (arg0) { return arg1 / arg0; }
+    
+        var1 = 0x3957;
+        memory[0x00:0x20] = 0x4e487b7100000000000000000000000000000000000000000000000000000000;
+        memory[0x04:0x24] = 0x12;
+        revert(memory[0x00:0x24]);
+    }
+    
+    function func_3963(var arg0, var arg1, var arg2, var arg3) returns (var r0, var arg0) {
+        var var0 = arg3;
+        var var1 = arg2;
+    
+        if (arg1 <= 0x01) {
+        label_39AD:
+            arg0 = var1;
+            r0 = var0;
+            return r0, arg0;
+        } else {
+        label_3977:
+            var temp0 = var1;
+        
+            if (temp0 > arg0 / temp0) {
+                var2 = 0x3988;
+                memory[0x00:0x20] = 0x4e487b7100000000000000000000000000000000000000000000000000000000;
+                memory[0x04:0x24] = 0x11;
+                revert(memory[0x00:0x24]);
+            } else if (!(arg1 & 0x01)) {
+                var temp1 = var1;
+                var1 = temp1 * temp1;
+                var var2 = 0x39a6;
+                var var3 = arg1;
+                var2 = func_3C59(var3);
+            
+            label_39A6:
+                arg1 = var2;
+            
+                if (arg1 <= 0x01) { goto label_39AD; }
+                else { goto label_3977; }
+            } else {
+                var temp2 = var1;
+                var0 = var0 * temp2;
+                var1 = temp2 * temp2;
+                var2 = 0x39a6;
+                var3 = arg1;
+                var2 = func_3C59(var3);
+                goto label_39A6;
+            }
+        }
+    }
+    
+    function func_39B6(var arg0, var arg1) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x39c1;
+        var var2 = arg1;
+        var1 = func_3BA0(var2);
+        arg1 = var1;
+        var1 = 0x39cc;
+        var2 = arg0;
+        var1 = func_3BA0(var2);
+        var temp0 = var1;
+        arg0 = temp0;
+        var1 = 0x39f9;
+        var2 = 0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff;
+        var var3 = arg0;
+        var var4 = arg1;
+        return func_3A01(var2, var3, var4);
+    }
+    
+    function func_3A01(var arg0, var arg1, var arg2) returns (var r0) {
+        var var0 = 0x00;
+    
+        if (!arg1) {
+            var0 = 0x01;
+            goto label_3ACD;
+        } else if (arg2) {
+            var var1 = arg2;
+        
+            if (var1 == 0x01) {
+                var0 = 0x01;
+            
+            label_3ACD:
+                return var0;
+            } else if (var1 != 0x02) {
+                var temp0 = arg1;
+                var temp1 = arg2;
+            
+                if (!(((temp1 < 0x0b) & (temp0 < 0x4e)) | ((temp1 < 0x0133) & (temp0 < 0x20)))) {
+                    var1 = 0x3ab0;
+                    var2 = arg0;
+                    var var3 = arg1;
+                    var var4 = arg2;
+                    var var5 = 0x01;
+                    var1, var2 = func_3963(var2, var3, var4, var5);
+                    arg2 = var2;
+                    var0 = var1;
+                
+                    if (var0 <= arg0 / arg2) {
+                        var0 = var0 * arg2;
+                        goto label_3ACD;
+                    } else {
+                        var1 = 0x3ac6;
+                        goto label_3BEA;
+                    }
+                } else {
+                    var0 = arg2 ** arg1;
+                
+                    if (var0 <= arg0) { goto label_3ACD; }
+                
+                    var1 = 0x3a9d;
+                    goto label_3BEA;
+                }
+            } else if (arg1 <= 0xff) {
+                var0 = 0x02 ** arg1;
+            
+                if (var0 <= arg0) { goto label_3ACD; }
+            
+                var var2 = 0x3a67;
+            
+            label_3BEA:
+                memory[0x00:0x20] = 0x4e487b7100000000000000000000000000000000000000000000000000000000;
+                memory[0x04:0x24] = 0x11;
+                revert(memory[0x00:0x24]);
+            } else {
+                var2 = 0x3a50;
+                goto label_3BEA;
+            }
+        } else {
+            var0 = 0x00;
+            goto label_3ACD;
+        }
+    }
+    
+    function func_3AD4(var arg0, var arg1) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x3adf;
+        var var2 = arg1;
+        var1 = func_3BA0(var2);
+        arg1 = var1;
+        var1 = 0x3aea;
+        var2 = arg0;
+        var1 = func_3BA0(var2);
+        arg0 = var1;
+        var temp0 = arg1;
+    
+        if (!(!!temp0 & (arg0 > 0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff / temp0))) { return arg1 * arg0; }
+    
+        var1 = 0x3b22;
+        memory[0x00:0x20] = 0x4e487b7100000000000000000000000000000000000000000000000000000000;
+        memory[0x04:0x24] = 0x11;
+        revert(memory[0x00:0x24]);
+    }
+    
+    function func_3B2E(var arg0, var arg1) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x3b39;
+        var var2 = arg1;
+        var1 = func_3BA0(var2);
+        arg1 = var1;
+        var1 = 0x3b44;
+        var2 = arg0;
+        var1 = func_3BA0(var2);
+        arg0 = var1;
+    
+        if (arg1 >= arg0) { return arg1 - arg0; }
+    
+        var1 = 0x3b56;
+        memory[0x00:0x20] = 0x4e487b7100000000000000000000000000000000000000000000000000000000;
+        memory[0x04:0x24] = 0x11;
+        revert(memory[0x00:0x24]);
+    }
+    
+    function func_3B62(var arg0) returns (var r0) {
+        var var0 = 0x00;
+        var var1 = 0x3b6d;
+        var var2 = arg0;
+        return func_3B80(var2);
+    }
+    
+    function func_3B74(var arg0) returns (var r0) { return !!arg0; }
+    
+    function func_3B80(var arg0) returns (var r0) { return arg0 & 0xffffffffffffffffffffffffffffffffffffffff; }
+    
+    function func_3BA0(var arg0) returns (var r0) { return arg0; }
+    
+    function func_3BAA(var arg0) returns (var r0) { return arg0 & 0xff; }
+    
+    function func_3BB7(var arg0, var arg1, var arg2) {
+        var var0 = 0x00;
+    
+        if (var0 >= arg0) {
+        label_3BD5:
+        
+            if (var0 <= arg0) { return; }
+        
+            memory[arg1 + arg0:arg1 + arg0 + 0x20] = 0x00;
+            return;
+        } else {
+        label_3BC3:
+            var temp0 = var0;
+            memory[arg1 + temp0:arg1 + temp0 + 0x20] = memory[arg2 + temp0:arg2 + temp0 + 0x20];
+            var0 = temp0 + 0x20;
+        
+            if (var0 >= arg0) { goto label_3BD5; }
+            else { goto label_3BC3; }
+        }
+    }
+    
+    function func_3C48(var arg0) returns (var r0) { return arg0 + 0x1f & ~0x1f; }
+    
+    function func_3C59(var arg0) returns (var r0) { return arg0 >> 0x01; }
+    
+    function func_3C66(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a207472616e7366657220746f20746865207a65726f2061646472;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x6573730000000000000000000000000000000000000000000000000000000000;
+    }
+    
+    function func_3CB5(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a206275726e20616d6f756e7420657863656564732062616c616e;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x6365000000000000000000000000000000000000000000000000000000000000;
+    }
+    
+    function func_3D04(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a206d757374206e6f74206265207468652061646d696e27732061;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x6464726573730000000000000000000000000000000000000000000000000000;
+    }
+    
+    function func_3D53(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a20617070726f766520746f20746865207a65726f206164647265;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x7373000000000000000000000000000000000000000000000000000000000000;
+    }
+    
+    function func_3DA2(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a206d757374206e6f742062652074686520746f6b656e20616464;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x7265737300000000000000000000000000000000000000000000000000000000;
+    }
+    
+    function func_3DF1(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a207472616e7366657220616d6f756e7420657863656564732062;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x616c616e63650000000000000000000000000000000000000000000000000000;
+    }
+    
+    function func_3E8F(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a206d757374206e6f742062652074686520746f6b656e206f6666;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x6572696e6720636f6e7472616374206164647265737300000000000000000000;
+    }
+    
+    function func_3F07(var arg0) {
+        memory[arg0:arg0 + 0x20] = 0x45524332303a206d757374206e6f74206265207a65726f206164647265737300;
+    }
+    
+    function func_3F30(var arg0) {
+        memory[arg0:arg0 + 0x20] = 0x5061757361626c653a2070617573656400000000000000000000000000000000;
+    }
+    
+    function func_3F59(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a20596f75206e65656420746f2073656e6420736f6d6520657468;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x6572000000000000000000000000000000000000000000000000000000000000;
+    }
+    
+    function func_3FA8(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a20746f6b656e732065786368616e67652069732063757272656e;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x746c7920626c6f636b6564000000000000000000000000000000000000000000;
+    }
+    
+    function func_3FF7(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a206e6577206f776e657220697320746865207a65726f20616464;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x7265737300000000000000000000000000000000000000000000000000000000;
+    }
+    
+    function func_4046(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a207472616e7366657220616d6f756e7420657863656564732061;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x6c6c6f77616e6365000000000000000000000000000000000000000000000000;
+    }
+    
+    function func_4095(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a206275726e20616d6f756e74206578636565647320616c6c6f77;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x616e636500000000000000000000000000000000000000000000000000000000;
+    }
+    
+    function func_40E4(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a206d757374206e6f7420626520746865206f776e657227732061;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x6464726573730000000000000000000000000000000000000000000000000000;
+    }
+    
+    function func_4133(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a206275726e2066726f6d20746865207a65726f20616464726573;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x7300000000000000000000000000000000000000000000000000000000000000;
+    }
+    
+    function func_4182(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a204e6f7420656e6f75676820746f6b656e7320696e2074686520;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x7265736572766500000000000000000000000000000000000000000000000000;
+    }
+    
+    function func_41D1(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a207472616e736665722066726f6d20746865207a65726f206164;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x6472657373000000000000000000000000000000000000000000000000000000;
+    }
+    
+    function func_4220(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a2066756e6374696f6e2063616c6c20726573657276656420746f;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x20636f6e74726163742061646d696e0000000000000000000000000000000000;
+    }
+    
+    function func_4272(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a20617070726f76652066726f6d20746865207a65726f20616464;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x7265737300000000000000000000000000000000000000000000000000000000;
+    }
+    
+    function func_42C1(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a2066756e6374696f6e2063616c6c20726573657276656420746f;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x20636f6e7472616374206f776e65720000000000000000000000000000000000;
+    }
+    
+    function func_4310(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a2061646d696e20746f6b656e732063616e6e6f74206578636565;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x6420746f74616c20737570706c79000000000000000000000000000000000000;
+    }
+    
+    function func_435F(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a207072652d73616c657320616d6f756e74206578636565647320;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x6f776e65722062616c616e636500000000000000000000000000000000000000;
+    }
+    
+    function func_43AE(var arg0) {
+        var temp0 = arg0;
+        memory[temp0:temp0 + 0x20] = 0x45524332303a2064656372656173656420616c6c6f77616e63652062656c6f77;
+        memory[temp0 + 0x20:temp0 + 0x20 + 0x20] = 0x207a65726f000000000000000000000000000000000000000000000000000000;
+    }
+    
+    function func_43FD(var arg0) {
+        memory[arg0:arg0 + 0x20] = 0x45524332303a206d696e7420746f20746865207a65726f206164647265737300;
+    }
+    
+    function func_4426(var arg0) {
+        var var0 = 0x442f;
+        var var1 = arg0;
+        var0 = func_3B62(var1);
+    
+        if (arg0 == var0) { return; }
+        else { revert(memory[0x00:0x00]); }
+    }
+    
+    function func_443D(var arg0) {
+        var var0 = 0x4446;
+        var var1 = arg0;
+        var0 = func_3BA0(var1);
+    
+        if (arg0 == var0) { return; }
+        else { revert(memory[0x00:0x00]); }
+    }
+}
+

@@ -1,0 +1,71 @@
+
+truffle migrate --network kovan --reset
+
+Compiling your contracts...
+===========================
+> Compiling .\contracts\Migrations.sol
+> Artifacts written to G:\Sources\Projects\DollyCoin\build\contracts
+> Compiled successfully using:
+   - solc: 0.8.4+commit.c7e474f2.Emscripten.clang
+
+
+
+Starting migrations...
+======================
+> Network name:    'kovan'
+> Network id:      42
+> Block gas limit: 12487782 (0xbe8c66)
+
+
+1_initial_migration.js
+======================
+
+   Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0xe4fb25bfa79e87cd070adc3e5ce0e9fcf334183c5e869119f1589ee3042daca7
+   > Blocks: 1            Seconds: 5
+   > contract address:    0x9F2Ff07d2BEc72c90558c043813E6317F6f685d0
+   > block number:        25105943
+   > block timestamp:     1622156540
+   > account:             0xe1dffA82C36BE0f0A26A49C7a88E298335113540
+   > balance:             3.98724916
+   > gas used:            283352 (0x452d8)
+   > gas price:           45 gwei
+   > value sent:          0 ETH
+   > total cost:          0.01275084 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.01275084 ETH
+
+
+2_deploy_contracts.js
+=====================
+
+   Deploying 'Dolly'
+   -----------------
+   > transaction hash:    0x06f3dd46c34f748d7e658b0c27ce22ab7fb88dd64f0040ec29206f7569bf6f48
+   > Blocks: 4            Seconds: 12
+   > contract address:    0x9D98b6Aac4368b31C38Ca76D4dba80BAdC253D19
+   > block number:        25105952
+   > block timestamp:     1622156576
+   > account:             0xe1dffA82C36BE0f0A26A49C7a88E298335113540
+   > balance:             3.805734415
+   > gas used:            3987718 (0x3cd906)
+   > gas price:           45 gwei
+   > value sent:          0 ETH
+   > total cost:          0.17944731 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.17944731 ETH
+
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          0.19219815 ETH
