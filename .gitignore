@@ -375,11 +375,10 @@ bin_output
 logs
 .secret
 
-.testnet-binance.txt
-.testnet-ganache.txt
-.testnet-kovan.txt
-.testnet-ropsten.txt
-.mainnet-fork-infura.txt
-.Disassembly.txt
-.Decompilation.txt
-.accounts-ganache.txt
+testnet-[a-z].txt
+
+mainnet-fork-infura.txt
+accounts-ganache.txt
+testPriceFeed.js
+testDolly.js
+testStakes.js
