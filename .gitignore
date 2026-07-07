@@ -375,7 +375,7 @@ bin_output
 logs
 .secret
 
-testnet-[a-z].txt
+testnet-*.txt
 
 mainnet-fork-infura.txt
 accounts-ganache.txt
